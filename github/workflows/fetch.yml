@@ -1,0 +1,36 @@
+name: Update Playlists Hourly
+
+on:
+  schedule:
+    # This runs at the 15th minute of every hour (e.g., 1:15, 2:15, etc.)
+    - cron: '15 * * * *'
+  workflow_dispatch:      # Allows you to click a button to run it manually
+  push:
+    paths:
+      - 'playlists.txt'   # Automatically runs if you add a new URL to the list
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run fetcher
+        run: python fetcher.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Hourly Playlist Update [skip ci]"
+          file_pattern: 'merged.m3u playlists/*.m3u'
