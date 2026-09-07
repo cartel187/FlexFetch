@@ -1,0 +1,35 @@
+name: Robust Playlist Fetcher
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:      # <--- This adds the manual "Run workflow" button
+  push:
+    paths:
+      - 'playlists.txt'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests urllib3
+
+      - name: Run Fetcher
+        run: python fetcher.py
+
+      - name: Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Manual/Hourly Update: Playlists Refreshed"
+          file_pattern: 'merged.m3u playlists/*.m3u'
