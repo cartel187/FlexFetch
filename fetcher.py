@@ -3,72 +3,96 @@ import os
 import re
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+try:
+    from filter_config import FILTERS
+except ImportError:
+    FILTERS = {}
 
-def fetch_all():
-    # Supports both names
+def parse_m3u_attributes(line):
+    """Extracts attributes like group-title, tvg-logo from #EXTINF line"""
+    attrs = {}
+    # Use regex to find key="value" patterns
+    matches = re.findall(r'(\S+?)="(.+?)"', line)
+    for key, value in matches:
+        attrs[key] = value
+    return attrs
+
+def fetch_and_filter():
     url_file = "playlist.txt" if os.path.exists("playlist.txt") else "playlists.txt"
     merged_file = "merged.m3u"
     
-    if not os.path.exists(url_file):
-        print(f"❌ Error: {url_file} not found.")
-        return
+    if not os.path.exists(url_file): return
 
     with open(url_file, "r") as f:
         lines = [l.strip() for l in f if l.strip() and not l.startswith("#")]
 
     session = requests.Session()
-    retries = Retry(total=5, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
-    session.mount("https://", HTTPAdapter(max_retries=retries))
-    
-    # "Beast" Headers: Mimics a high-end IPTV Player (TiviMate/OTT Navigator style)
-    headers = {
-        'User-Agent': 'TiviMate/4.7.0 (Linux; Android 11; Nvidia Shield TV Pro)',
-        'Accept': '*/*',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Connection': 'keep-alive',
-        'X-Requested-With': 'ar.tvplayer.tv'
-    }
+    session.mount("https://", HTTPAdapter(max_retries=Retry(total=5, backoff_factor=1)))
+    headers = {'User-Agent': 'TiviMate/4.7.0 (Linux; Android 11)'}
 
     merged_content = ["#EXTM3U"]
 
     for i, line in enumerate(lines):
-        # Support "Name | URL" or just "URL"
-        if "|" in line:
-            name, url = line.split("|", 1)
-            name = name.strip().replace(" ", "_").lower()
-            url = url.strip()
-        else:
-            name = f"playlist{i+1}"
-            url = line.strip()
-
-        filename = f"{name}.m3u"
-
+        name_label, url = line.split("|", 1) if "|" in line else (f"list{i+1}", line)
+        name_label = name_label.strip()
+        url = url.strip()
+        
+        # Get rules for this specific playlist
+        rule = FILTERS.get(name_label.lower(), {})
+        
         try:
-            print(f"🚀 Fetching {name}: {url}")
+            print(f"🌀 Processing {name_label} with filters...")
             response = session.get(url, headers=headers, timeout=30)
             response.raise_for_status()
             
-            raw_text = response.text
+            raw_lines = response.text.splitlines()
+            filtered_lines = ["#EXTM3U"]
             
-            # 1. Save Individual File (e.g., sony.m3u)
-            with open(filename, "w", encoding="utf-8") as f_ind:
-                f_ind.write(raw_text)
-            print(f"✅ Saved individual: {filename}")
+            for j in range(len(raw_lines)):
+                if raw_lines[j].startswith("#EXTINF"):
+                    inf_line = raw_lines[j]
+                    url_line = raw_lines[j+1] if j+1 < len(raw_lines) else ""
+                    
+                    attrs = parse_m3u_attributes(inf_line)
+                    current_group = attrs.get("group-title", "")
+                    
+                    # 1. Filter by Group
+                    if rule.get("keep_groups") and current_group not in rule["keep_groups"]:
+                        continue # Skip this channel
+                    
+                    # 2. Modify Group Name
+                    if rule.get("rename_group"):
+                        inf_line = inf_line.replace(f'group-title="{current_group}"', f'group-title="{rule["rename_group"]}"')
+                    
+                    # 3. Modify Logo
+                    if rule.get("force_logo"):
+                        old_logo = attrs.get("tvg-logo", "")
+                        inf_line = inf_line.replace(f'tvg-logo="{old_logo}"', f'tvg-logo="{rule["force_logo"]}"')
+                    
+                    # 4. Modify Channel Name (Prefix)
+                    if rule.get("name_prefix"):
+                        # Find the part after the last comma
+                        parts = inf_line.rsplit(",", 1)
+                        if len(parts) > 1:
+                            inf_line = f"{parts[0]},{rule['name_prefix']}{parts[1]}"
 
-            # 2. Prepare for Merged File
-            # We strip the #EXTM3U header from sub-files to keep the merge clean
-            for content_line in raw_text.splitlines():
-                if content_line.strip() and not content_line.startswith("#EXTM3U"):
-                    merged_content.append(content_line.strip())
+                    filtered_lines.append(inf_line)
+                    filtered_lines.append(url_line)
+                    
+                    # Add to merged content (skipping header)
+                    merged_content.append(inf_line)
+                    merged_content.append(url_line)
 
+            # Save individual filtered file
+            with open(f"{name_label.lower().replace(' ', '_')}.m3u", "w", encoding="utf-8") as f_out:
+                f_out.write("\n".join(filtered_lines))
+            
         except Exception as e:
-            print(f"❌ Failed {name}: {e}")
+            print(f"❌ Error on {name_label}: {e}")
 
-    # 3. Save Master Merged File
     with open(merged_file, "w", encoding="utf-8") as f_merge:
         f_merge.write("\n".join(merged_content))
-    
-    print(f"🏁 Process Complete. Merged file: {merged_file}")
+    print("🏁 Beast Filtering Complete.")
 
 if __name__ == "__main__":
-    fetch_all()
+    fetch_and_filter()
