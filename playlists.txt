@@ -1,5 +1,6 @@
-https://raw.githubusercontent.com/Sflex0719/STBPLUS/main/Zio.m3u
-https://premiumplugx.com/htt/hot.php?playlist=1
-https://premiumplugx.com/Sliv/sony_playlist.php?m3u
-https://premiumplugx.com/VIP/pluglist.php
-# Add your future links below this line:
+Zio | https://raw.githubusercontent.com/Sflex0719/STBPLUS/main/Zio.m3u
+Hot | https://premiumplugx.com/htt/hot.php?playlist=1
+Sony | https://premiumplugx.com/Sliv/sony_playlist.php?m3u
+VIP | https://premiumplugx.com/VIP/pluglist.php
+# You can add more like this:
+# MyList | https://example.com/list.m3u
