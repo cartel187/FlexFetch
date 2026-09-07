@@ -2,20 +2,26 @@ name: Robust Playlist Fetcher
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:      # <--- This adds the manual "Run workflow" button
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:      # Manual button
   push:
+    branches:
+      - main
     paths:
       - 'playlists.txt'
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    # Explicitly grant write access
     permissions:
       contents: write
+    
     steps:
-      - name: Checkout
+      - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -28,8 +34,17 @@ jobs:
       - name: Run Fetcher
         run: python fetcher.py
 
-      - name: Commit Changes
+      - name: Debug - List Files
+        run: |
+          echo "Current directory contents:"
+          ls -R
+          echo "Checking merged.m3u content head:"
+          head -n 5 merged.m3u || echo "File not found"
+
+      - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Manual/Hourly Update: Playlists Refreshed"
+          commit_message: "Update Playlists [skip ci]"
+          # This pattern ensures it picks up everything new
           file_pattern: 'merged.m3u playlists/*.m3u'
+          branch: main
