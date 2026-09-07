@@ -3,71 +3,59 @@ import os
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-# Configuration
-URL_FILE = "playlists.txt"
-OUTPUT_DIR = "playlists"
-MERGED_FILE = "merged.m3u"
-
-def get_robust_session():
-    session = requests.Session()
-    # Configure Retries: 3 attempts, with increasing delay between them
-    retry_strategy = Retry(
-        total=3,
-        backoff_factor=1,
-        status_forcelist=[429, 500, 502, 503, 504],
-    )
-    adapter = HTTPAdapter(max_retries=retry_strategy)
-    session.mount("http://", adapter)
-    session.mount("https://", adapter)
-    return session
-
 def fetch_all():
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
+    url_file = "playlists.txt"
+    output_dir = "playlists"
+    merged_file = "merged.m3u"
 
-    if not os.path.exists(URL_FILE):
-        print(f"Error: {URL_FILE} not found.")
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    if not os.path.exists(url_file):
+        print(f"CRITICAL ERROR: {url_file} not found in the root directory.")
         return
 
-    with open(URL_FILE, "r") as f:
+    with open(url_file, "r") as f:
         urls = [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
-    session = get_robust_session()
-    # Standard high-compatibility browser header
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
-    }
+    if not urls:
+        print("No URLs found in playlists.txt")
+        return
 
+    session = requests.Session()
+    retries = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
+    session.mount("https://", HTTPAdapter(max_retries=retries))
+    
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
     merged_lines = ["#EXTM3U"]
 
     for i, url in enumerate(urls):
         try:
-            print(f"Fetching {i+1}/{len(urls)}: {url}")
-            # 15 second timeout to prevent hanging on dead links
-            response = session.get(url, headers=headers, timeout=15)
+            print(f"Attempting to fetch: {url}")
+            response = session.get(url, headers=headers, timeout=20)
             response.raise_for_status()
             
             content = response.text
-            
-            # Save individual copy
-            with open(f"{OUTPUT_DIR}/source_{i+1}.m3u", "w", encoding="utf-8") as f_out:
+            print(f"Success! Received {len(content)} bytes.")
+
+            # Save individual
+            filename = f"source_{i+1}.m3u"
+            with open(os.path.join(output_dir, filename), "w", encoding="utf-8") as f_out:
                 f_out.write(content)
 
-            # Process for merging
-            lines = content.splitlines()
-            for line in lines:
-                clean_line = line.strip()
-                # Skip the header of the sub-files so they don't break the merged file
-                if clean_line and not clean_line.startswith("#EXTM3U"):
-                    merged_lines.append(clean_line)
+            # Process lines
+            for line in content.splitlines():
+                if line.strip() and not line.strip().startswith("#EXTM3U"):
+                    merged_lines.append(line.strip())
 
         except Exception as e:
-            print(f"Skipping {url} due to error: {e}")
+            print(f"FAILED to fetch {url}: {e}")
 
-    # Write the master file
-    with open(MERGED_FILE, "w", encoding="utf-8") as f_merged:
+    # Write merged file
+    with open(merged_file, "w", encoding="utf-8") as f_merged:
         f_merged.write("\n".join(merged_lines))
-    print(f"Successfully merged {len(urls)} sources into {MERGED_FILE}")
+    
+    print(f"DONE! Created {merged_file} with {len(merged_lines)} lines.")
 
 if __name__ == "__main__":
     fetch_all()
