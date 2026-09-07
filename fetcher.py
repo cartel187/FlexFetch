@@ -3,96 +3,130 @@ import os
 import re
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+
+# Attempt to load filters, fallback to empty if not found
 try:
     from filter_config import FILTERS
 except ImportError:
     FILTERS = {}
 
-def parse_m3u_attributes(line):
-    """Extracts attributes like group-title, tvg-logo from #EXTINF line"""
-    attrs = {}
-    # Use regex to find key="value" patterns
-    matches = re.findall(r'(\S+?)="(.+?)"', line)
-    for key, value in matches:
-        attrs[key] = value
-    return attrs
-
-def fetch_and_filter():
-    url_file = "playlist.txt" if os.path.exists("playlist.txt") else "playlists.txt"
-    merged_file = "merged.m3u"
-    
-    if not os.path.exists(url_file): return
-
-    with open(url_file, "r") as f:
-        lines = [l.strip() for l in f if l.strip() and not l.startswith("#")]
-
+def get_session():
     session = requests.Session()
-    session.mount("https://", HTTPAdapter(max_retries=Retry(total=5, backoff_factor=1)))
-    headers = {'User-Agent': 'TiviMate/4.7.0 (Linux; Android 11)'}
+    retries = Retry(total=5, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
+    session.mount("https://", HTTPAdapter(max_retries=retries))
+    # Using a high-compatibility header
+    session.headers.update({
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': '*/*',
+        'Connection': 'keep-alive'
+    })
+    return session
 
-    merged_content = ["#EXTM3U"]
+def process_m3u(raw_text, rules):
+    """
+    Parses M3U while preserving exact URL integrity.
+    """
+    input_lines = raw_text.splitlines()
+    output_lines = ["#EXTM3U"]
+    
+    current_inf = None
+    
+    for line in input_lines:
+        line = line.strip()
+        if not line:
+            continue
+            
+        if line.startswith("#EXTM3U"):
+            continue
+            
+        if line.startswith("#EXTINF"):
+            current_inf = line
+            continue
+            
+        # If the line doesn't start with #, it is the URL
+        if not line.startswith("#") and current_inf:
+            # We have a pair: current_inf (metadata) + line (URL)
+            
+            # --- APPLY FILTERS HERE ---
+            keep = True
+            inf_to_save = current_inf
+            
+            # Extract group for filtering
+            group_match = re.search(r'group-title="(.+?)"', inf_to_save)
+            current_group = group_match.group(1) if group_match else ""
+            
+            # 1. Filter by Group
+            if rules.get("keep_groups") and current_group not in rules["keep_groups"]:
+                keep = False
+            
+            if keep:
+                # 2. Rename Group
+                if rules.get("rename_group"):
+                    inf_to_save = re.sub(r'group-title=".+?"', f'group-title="{rules["rename_group"]}"', inf_to_save)
+                
+                # 3. Replace Logo
+                if rules.get("force_logo"):
+                    inf_to_save = re.sub(r'tvg-logo=".+?"', f'tvg-logo="{rules["force_logo"]}"', inf_to_save)
+                
+                # 4. Add Prefix to Name
+                if rules.get("name_prefix"):
+                    # The name is always after the last comma
+                    parts = inf_to_save.rsplit(',', 1)
+                    if len(parts) > 1:
+                        inf_to_save = f"{parts[0]},{rules['name_prefix']}{parts[1]}"
+                
+                # Save the modified INF and the EXACT URL
+                output_lines.append(inf_to_save)
+                output_lines.append(line) # Exact URL preservation
+            
+            current_inf = None # Reset for next pair
 
-    for i, line in enumerate(lines):
-        name_label, url = line.split("|", 1) if "|" in line else (f"list{i+1}", line)
-        name_label = name_label.strip()
+    return "\n".join(output_lines)
+
+def main():
+    url_file = "playlist.txt" if os.path.exists("playlist.txt") else "playlists.txt"
+    if not os.path.exists(url_file):
+        print("No source file found.")
+        return
+
+    session = get_session()
+    with open(url_file, "r") as f:
+        sources = [l.strip() for l in f if l.strip() and not l.startswith("#")]
+
+    all_merged_channels = []
+
+    for i, source in enumerate(sources):
+        name_label, url = source.split("|", 1) if "|" in source else (f"playlist{i+1}", source)
+        name_label = name_label.strip().lower().replace(" ", "_")
         url = url.strip()
         
-        # Get rules for this specific playlist
-        rule = FILTERS.get(name_label.lower(), {})
+        rules = FILTERS.get(name_label, {})
         
         try:
-            print(f"🌀 Processing {name_label} with filters...")
-            response = session.get(url, headers=headers, timeout=30)
-            response.raise_for_status()
+            print(f"📡 Fetching: {name_label}")
+            resp = session.get(url, timeout=30)
+            resp.raise_for_status()
             
-            raw_lines = response.text.splitlines()
-            filtered_lines = ["#EXTM3U"]
+            # Process content
+            filtered_data = process_m3u(resp.text, rules)
             
-            for j in range(len(raw_lines)):
-                if raw_lines[j].startswith("#EXTINF"):
-                    inf_line = raw_lines[j]
-                    url_line = raw_lines[j+1] if j+1 < len(raw_lines) else ""
-                    
-                    attrs = parse_m3u_attributes(inf_line)
-                    current_group = attrs.get("group-title", "")
-                    
-                    # 1. Filter by Group
-                    if rule.get("keep_groups") and current_group not in rule["keep_groups"]:
-                        continue # Skip this channel
-                    
-                    # 2. Modify Group Name
-                    if rule.get("rename_group"):
-                        inf_line = inf_line.replace(f'group-title="{current_group}"', f'group-title="{rule["rename_group"]}"')
-                    
-                    # 3. Modify Logo
-                    if rule.get("force_logo"):
-                        old_logo = attrs.get("tvg-logo", "")
-                        inf_line = inf_line.replace(f'tvg-logo="{old_logo}"', f'tvg-logo="{rule["force_logo"]}"')
-                    
-                    # 4. Modify Channel Name (Prefix)
-                    if rule.get("name_prefix"):
-                        # Find the part after the last comma
-                        parts = inf_line.rsplit(",", 1)
-                        if len(parts) > 1:
-                            inf_line = f"{parts[0]},{rule['name_prefix']}{parts[1]}"
-
-                    filtered_lines.append(inf_line)
-                    filtered_lines.append(url_line)
-                    
-                    # Add to merged content (skipping header)
-                    merged_content.append(inf_line)
-                    merged_content.append(url_line)
-
-            # Save individual filtered file
-            with open(f"{name_label.lower().replace(' ', '_')}.m3u", "w", encoding="utf-8") as f_out:
-                f_out.write("\n".join(filtered_lines))
-            
+            # Save individual
+            with open(f"{name_label}.m3u", "w", encoding="utf-8") as f_out:
+                f_out.write(filtered_data)
+                
+            # Add to merge list (skip header for merging)
+            merge_lines = filtered_data.splitlines()
+            if len(merge_lines) > 1:
+                all_merged_channels.extend(merge_lines[1:])
+                
         except Exception as e:
             print(f"❌ Error on {name_label}: {e}")
 
-    with open(merged_file, "w", encoding="utf-8") as f_merge:
-        f_merge.write("\n".join(merged_content))
-    print("🏁 Beast Filtering Complete.")
+    # Save merged
+    with open("merged.m3u", "w", encoding="utf-8") as f_merge:
+        f_merge.write("#EXTM3U\n" + "\n".join(all_merged_channels))
+    
+    print("✅ All playlists processed and URLs preserved.")
 
 if __name__ == "__main__":
-    fetch_and_filter()
+    main()
