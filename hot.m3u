@@ -260,6 +260,14 @@ https://livetv.hotstar.com/mp1/gec-india-1540068301/c776132a964441e1b929b2c04512
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6"}
 https://livetv.hotstar.com/mp1/gec-india-1540068723/bf078703201f419b89e87fedda08b8f1/index.mpd?|cookie=hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 
+#EXTINF:-1 tvg-name="TATA IPL LIVE TV" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5897/1782285865897-h.jpg" group-title="Sports", TATA IPL LIVE TV
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6"}
+https://livetv.hotstar.com/out/v1/llg-tv-mum/1540072843_hindi_5e0a66fc/gec-india_hls_unencrypted/master-ap-1080-4.m3u8?|cookie=hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
 #EXTINF:-1 tvg-name="Star Sports Select 2 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h.jpg" group-title="Sports", Star Sports Select 2 Digital
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -711,6 +719,18 @@ https://livetv.hotstar.com/mp1/gec-india-1540068702/807fee4649e74970af364da5030c
 #EXTVLCOPT:http-cookie=hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6"}
 https://livetv.hotstar.com/mp2/gec-india-1540068696/fbf749b57ef444e8b2af5fbed29c350b/index.mpd?|cookie=hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
+#EXTINF:-1 tvg-name="National Geographic Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3329/1786019023329-h.jpg" group-title="Knowledge", National Geographic Digital
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hotstarlicenceurl.cstds.workers.dev/plugx
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6"}
+https://livetv.hotstar.com/mp2/gec-india-1540075730/d4acfd4b06c24abe9dfad81671da1582/index.mpd?|cookie=hdntl=exp=1788986042~acl=%2f*~id=a74d7fd34a94f70b7f4ce7e8443c95d1~data=hdntl~hmac=5d66a2e877f639a6eae5e9594ab1ca6c2c37423316f7e1d257a38ebec91f23a6&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 
 #EXTINF:-1 tvg-name="Star Kiran Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7412/1782282697412-h.jpg" group-title="Entertainment", Star Kiran Digital
 #KODIPROP:inputstream=inputstream.adaptive
