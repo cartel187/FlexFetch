@@ -1,494 +1,494 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ZEE_TV_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee TV HD
-https://streamflexsmm.in/Artl-Digital/ZEE_TV_HD.m3u8?_t=8803a72af63a0a9d7c7ec6ec9580b894a847ffa1520a3927f50989c5d1a6df0f5c649a9ac4f467e9988d93279cc0561f2034dbb0b967a2c6c8ab754d516e32c9
+https://streamflexsmm.in/Artl-Digital/ZEE_TV_HD.m3u8?_t=926ea1e9b4c632fc8d4337550d2e1470b16ffea171abee40778d35317410896f3284c0d310990a6c0f774d8faadb28e3c7b61d4393d3b4647f7f556da56f1051
 
 #EXTINF:-1 tvg-id="ZEE_CINEMA_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Cinema HD
-https://streamflexsmm.in/Artl-Digital/ZEE_CINEMA_HD.m3u8?_t=3e02c621502f69286cf1fcae576bf22e5168cb600ddf48d64d7de45d2ef9dfed485d59505d60df4bf3b33478a5163442a630c75fe6b9a633cdce89f9ed15a2af
+https://streamflexsmm.in/Artl-Digital/ZEE_CINEMA_HD.m3u8?_t=5cab99433e74593b807e9fcfb48f4d7d5119c79293a7cf6d0e76a8bfc07a171fbec656583b46bb830e55cd6b91d99720ded761133120cef6d7ca1986941a13fa
 
 #EXTINF:-1 tvg-id="AND_PICTURES_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_PICTURES_HD/images/LOGO_HD/LOGO_HD_image.png",& Pictures HD
-https://streamflexsmm.in/Artl-Digital/AND_PICTURES_HD.m3u8?_t=27386f118808d5effdd6e5b9a782b860ba8b69ef6aa625c2a8192f7226d5d363dd7871bd4a36014e679c3c8ef84ee74b7f513104b5dc341e7a08d34d02ca2042
+https://streamflexsmm.in/Artl-Digital/AND_PICTURES_HD.m3u8?_t=04f9089ffd484a96db17250db1b370090db13c40fe4f828c165db8a3cc88bb1507b7b17c3dfc5eaa89fb3fb2d22f71647cea45ae4840ca34ac2b78008013f11b
 
 #EXTINF:-1 tvg-id="ACTION_CINEMA" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LANDSCAPE_169_HD/image.png",Action Cinema
-https://streamflexsmm.in/Artl-Digital/ACTION_CINEMA.m3u8?_t=4c2f4172c9d623160258d87222bc0064f01a955904dc298f3d63575c8a13f175d9ece2e4eea2e8f1e6d31a1af726deeb52039e22965ce44715bbd524a1eb4992
+https://streamflexsmm.in/Artl-Digital/ACTION_CINEMA.m3u8?_t=e73bb80333f8c6718cd77af62ab85a49e8cc814b86b44311cd229eab77b95124915dc9d48e528ddc189aa8c663e9a68f922abbb04b006ecbadf746d11a82bf49
 
 #EXTINF:-1 tvg-id="ZEE_CLASSIC" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Classic
-https://streamflexsmm.in/Artl-Digital/ZEE_CLASSIC.m3u8?_t=2d7d660426f23e674049e4098293784800efea2088b84c03ebe42c20df243c482cad72fa357c41c4eeb42a81e5527a821f5432022d57ed3f30fbad726f1f9f0f
+https://streamflexsmm.in/Artl-Digital/ZEE_CLASSIC.m3u8?_t=3ea0ba6c598ba77b2da1f6ab37c4a2e0245b98181f60b931b86f256719198d752719b6bb6a5dcfd0c991a592187da43c4b891c97a6aa5acb5ba8c773fd25c71e
 
 #EXTINF:-1 tvg-id="ZING" group-title="StreamFlex-Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZING/images/LANDSCAPE_169_HD/image.png",Zing
-https://streamflexsmm.in/Artl-Digital/ZING.m3u8?_t=18ffe8836471b424de76685bd0bfe996a0a045f8b5bc5229f85cb7dd090ab52b26aa57edfee9c57e0ec3412eed4518e45f8092a694502bc0018be1a0d908e285
+https://streamflexsmm.in/Artl-Digital/ZING.m3u8?_t=75a6999c46d8d424164741a1fd0d980029f8f65e886bdf7520f2eed3a17fbb94f89f7488fae8cfef91edd4230e426c17cdfd4874c4414695c0aebb02f64ef12e
 
 #EXTINF:-1 tvg-id="STAR_UTSAV_MOVIES" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LANDSCAPE_169_HD/image.png",STAR UTSAV MOVIES
-https://streamflexsmm.in/Artl-Digital/STAR_UTSAV_MOVIES.m3u8?_t=069099eb4947d6ef80d975ca4ae7121d43696326b6496ad0dcc054585e1fb635bd594fae0d9b4a53c9804b4707c0e396e607ad9aa1130eed889860013b3d69ae
+https://streamflexsmm.in/Artl-Digital/STAR_UTSAV_MOVIES.m3u8?_t=8598255aa52c0d746a29a2e2dec1a80f6c901ac944c5ce550e88e7e6fc1e577cca89aeebb6ece3755f0ae10d38af16f002de0b0c30e3d516103b3dace6259d26
 
 #EXTINF:-1 tvg-id="STAR_UTSAV" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Utsav
-https://streamflexsmm.in/Artl-Digital/STAR_UTSAV.m3u8?_t=58765a9e532c6af2423c7dee3074681c8b6edaba6ec001746ef59c5a5ffdbb5c5265595b1cbb9c319b2ddf44d4d7824673067039b0a95d1830edb87da462966f
+https://streamflexsmm.in/Artl-Digital/STAR_UTSAV.m3u8?_t=ff5b3341b9769d2f71c0ebcac617502f9bca24fd921fc9e44f35b021597f1a839d7363261bf7eedd2771a2ba7b5d4ba2b276587f9d97d69d8fe4c5197d261cde
 
 #EXTINF:-1 tvg-id="STAR_BHARAT_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LANDSCAPE_169_HD/image.png",Star Bharat HD
-https://streamflexsmm.in/Artl-Digital/STAR_BHARAT_HD.m3u8?_t=b71d6e7bf05c7f522b15100eb45f4cc40622299d4807f9214d7070b70204210e5804482c061cb79fe177ddaba3e44486db59f44f6536911930454c0495e97db3
+https://streamflexsmm.in/Artl-Digital/STAR_BHARAT_HD.m3u8?_t=60d3e11a2e54b9a2bbf27e254890efdbf3408c81cabff9d58ae491a5ae08a4d43fda95139271eacbce4d3fcefa649f12c907b190251d106af04fd4e9f396f6d8
 
 #EXTINF:-1 tvg-id="STAR_GOLD_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Gold HD
-https://streamflexsmm.in/Artl-Digital/STAR_GOLD_HD.m3u8?_t=a55384ab5da9867492c80a30d86c47298697c3eda6a191594e97cb13d1386ad07d3625b62b70152122d4d97c470e97da4d3a117aaa009fad2fc11bac0e404d6d
+https://streamflexsmm.in/Artl-Digital/STAR_GOLD_HD.m3u8?_t=20c78efc5429dab809c30f350f1000896dcce53383a00c7317eecb5709ac1b982b893aa591f6995227d3095df4a02021230a8e1dc22df0f282b2720f32c38a2c
 
 #EXTINF:-1 tvg-id="STAR_GOLD_2_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Gold 2 HD
-https://streamflexsmm.in/Artl-Digital/STAR_GOLD_2_HD.m3u8?_t=8f18883faf6fda86ea4fbcbb42c22ac5c27994248c29773a36590a36b5c7c6121cd8bdc57d85374285ff926cf5c4d7aed188cdfc59c5f9827f41142b8abdb78c
+https://streamflexsmm.in/Artl-Digital/STAR_GOLD_2_HD.m3u8?_t=bcd9ec405d4e32bf307004fc70b94661cef3ad215f27bc5511b182c27cba27d6700f120082083d71e6c2e9cf270f324883f0ad916fe90f2117f96f0b051d3abc
 
 #EXTINF:-1 tvg-id="STAR_GOLD_SELECT_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD/images/LANDSCAPE_169_HD/image.png",Star Gold Select HD
-https://streamflexsmm.in/Artl-Digital/STAR_GOLD_SELECT_HD.m3u8?_t=ae9b00524a2b7bde4feac727ffd72906803269b83c4e7d292178df638e86966f59d353700e5a3ee48211174d18d03efe08039acc072135dd471eeaf999c98055
+https://streamflexsmm.in/Artl-Digital/STAR_GOLD_SELECT_HD.m3u8?_t=c443354dfa0a48421932d6fbdbbe4933024c8f9473c23c8a7c9c966aa40a7a5f9e9e230b77b661b3aaf4801807462f4a163c0074b9ba1e89010ffaef130f9a5b
 
 #EXTINF:-1 tvg-id="STAR_PLUS_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Plus HD
-https://streamflexsmm.in/Artl-Digital/STAR_PLUS_HD.m3u8?_t=fb362f2173eb429efffd3cba4e25dbeb55e835653345aff3e197abd3ff6c8fd2b4e85ae17d72e4c1fc58ba5f42099d431b368e1bb23c35a73403cf1069fba52c
+https://streamflexsmm.in/Artl-Digital/STAR_PLUS_HD.m3u8?_t=32ef60b6cbba841a9e1d41e8c3b92e4640620f87310e28da678f5c69c25f5b6b67b9d2aa20c33622f56ce0eb72c74efe73858851aba6e7c07bdee76bf17d0db0
 
 #EXTINF:-1 tvg-id="STAR_PLUS_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Plus HD
-https://streamflexsmm.in/Artl-Digital/STAR_PLUS_HD.m3u8?_t=fb362f2173eb429efffd3cba4e25dbeb55e835653345aff3e197abd3ff6c8fd2b4e85ae17d72e4c1fc58ba5f42099d431b368e1bb23c35a73403cf1069fba52c
+https://streamflexsmm.in/Artl-Digital/STAR_PLUS_HD.m3u8?_t=32ef60b6cbba841a9e1d41e8c3b92e4640620f87310e28da678f5c69c25f5b6b67b9d2aa20c33622f56ce0eb72c74efe73858851aba6e7c07bdee76bf17d0db0
 
 #EXTINF:-1 tvg-id="SET_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LANDSCAPE_169_HD/image.png",SET HD
-https://streamflexsmm.in/Artl-Digital/SET_HD.m3u8?_t=cfc987687f358efe505f88e1464e0a8ae29455b5e7687602f5fa6af141e725b830b1fa7e5f3b3191a3563db98db2fcb90b82b3a8183fae644cb5c59c3e259e72
+https://streamflexsmm.in/Artl-Digital/SET_HD.m3u8?_t=c4559df4a5b54272f63fc5b464bc9f80278c0a936784dbda2b2c79a9da939908b035cf10cb63d1ed45be05eb5fc0cd7b2e2ed646a77df588fe4cf2b726a9386b
 
 #EXTINF:-1 tvg-id="SONY_MAX_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony MAX HD
-https://streamflexsmm.in/Artl-Digital/SONY_MAX_HD.m3u8?_t=f427d15b6e67356feb625c9fa55b01f8c92cf2665454203d9dbb432a552f88512e7f10ff1a123a4142d5f3219ff683e2c9ce59f7d87164fdae6ebc325064e8c4
+https://streamflexsmm.in/Artl-Digital/SONY_MAX_HD.m3u8?_t=100f91adb730a65d6b6b1c5478f69b4021ac2a508c90d7fd83a2ce966252c5ae998546c97bbd8b9ddfcbe50c066009f1176c612b366a27df47e2a9b2c3a187f9
 
 #EXTINF:-1 tvg-id="SONY_PIX_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony Pix HD
-https://streamflexsmm.in/Artl-Digital/SONY_PIX_HD.m3u8?_t=c075c941dc57dd233a330193a2f9cd9f9bbe84406aa88bb52bb744d255cdb6290cc3736d4fc960f2898da2e6d61c831c7b3827cc675d6b2b8d175d8f96342751
+https://streamflexsmm.in/Artl-Digital/SONY_PIX_HD.m3u8?_t=2d4a84d0890f1e7c3c3c140ef89b4a764c9ebb863f675427b82d2faf905361fdedaef23ab113d65bee97fc0ce20087c7f2361a576157be00c91e074948feb2ab
 
 #EXTINF:-1 tvg-id="SONY_BBC_EARTH_HD" group-title="StreamFlex-Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony BBC earth HD
-https://streamflexsmm.in/Artl-Digital/SONY_BBC_EARTH_HD.m3u8?_t=174a37d50d17847131cb99f301ce5cd6e8c9520e9180dffd19109bc69052c410f6bf51e141753b81fcea2ccd198f0b14643d14717ddf54dc155cabd2588541ca
+https://streamflexsmm.in/Artl-Digital/SONY_BBC_EARTH_HD.m3u8?_t=0ebf58438897ee61c2befd859b3a9be70fd5f9c291985044010e89303c6045387ed710330509cff4b78fa242072eb00a7d6f73cf65018a1f381cd4d439acf29f
 
 #EXTINF:-1 tvg-id="SONY_SAB_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony SAB HD
-https://streamflexsmm.in/Artl-Digital/SONY_SAB_HD.m3u8?_t=d66240411531d6a4ff535b60cc0e1110147850ea33232a36cf01f9b8dc7a5998dc4da3cb0572b5888f3bab3d6634e27adb870ed6cd974c7c5564aadaee1492a4
+https://streamflexsmm.in/Artl-Digital/SONY_SAB_HD.m3u8?_t=9cee4f6902b554db209ca88521381ee30317b735c1200f23cfd2d0d5e01c0908e55cd892c7caea86cf8c30241ed3709eb16386d78958a02c44a6ea152046806d
 
 #EXTINF:-1 tvg-id="SONY_WAH" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony Wah
-https://streamflexsmm.in/Artl-Digital/SONY_WAH.m3u8?_t=a510800bdf5165dc831dd62da47e53c2b9312be4fa4c3694e793b6db70f1becc3aab6c1f210ba5f3d676ffa8baf564a7a36527c6520148a78abe15da7e701546
+https://streamflexsmm.in/Artl-Digital/SONY_WAH.m3u8?_t=caeccd39618f33fae6d626251931061de4c924995d6be443e7e04a9739d6d7c4a35cfd39a3acd928020241af9efde78020e0f7317e5fbb8a8affe728866699c8
 
 #EXTINF:-1 tvg-id="SONY_PAL" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony Pal
-https://streamflexsmm.in/Artl-Digital/SONY_PAL.m3u8?_t=e9c8ea7d0b3a459558d17d991b2e4f398712d89cc89fc0b5e00d29c062f444f1e462d229b78cbb264363fb5c23624fa344558329adbe1f3562323755ccbe0a73
+https://streamflexsmm.in/Artl-Digital/SONY_PAL.m3u8?_t=68b06bb239d384e6e921c8d545f7415147a59eae623d86b915aed07111ffb2939ff0c96365d9a6277433b5732ea070f14eb41bc925d3e7bfa7908d7487979322
 
 #EXTINF:-1 tvg-id="SONY_YAY" group-title="StreamFlex-Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony Yay
-https://streamflexsmm.in/Artl-Digital/SONY_YAY.m3u8?_t=6a3dfeaa930646fc996b71271b63cd5643515f731ed32765da65a916d00cca96d1abdd25c6203c03b2184133dd4ca39b7ce2ab6fcc50153cc7a3eb5ce997c7d5
+https://streamflexsmm.in/Artl-Digital/SONY_YAY.m3u8?_t=9a0a3efab4d651a9483e448888663f1a790d5d6af8ea884587c867715c64a6a9ebccc2a79c2f92ed83aea9708353674371f5405c9a6f3df6c91309df05464969
 
 #EXTINF:-1 tvg-id="7" group-title="StreamFlex-Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16-j5f9ui8g-v1/imageContent-16-j5f9ui8g-m1.jpg",B4U Movies
-https://streamflexsmm.in/Artl-Digital/7.m3u8?_t=99f123ad0eac6128237934d630749a55e390a821c49c54facca61d7a01ae60a1630e4bde198e2a83a92e2307ec3781c87f4aaff46bd22a9301b0652d93af4b12
+https://streamflexsmm.in/Artl-Digital/7.m3u8?_t=3ce7d6f4e49200e28a4bf739aca2e8deef1e05baa09efedf2077473e6f04775cf70a98245c3c49e69b86ce7b547769eee6206aebceecb5fb4ed63a76a2f896c9
 
 #EXTINF:-1 tvg-id="COLORS_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Colors HD
-https://streamflexsmm.in/Artl-Digital/COLORS_HD.m3u8?_t=55914fd806a2d0d998e19804c6e45b62188258a2c60fe3d5102ba35e8a82ee35374519df7a3c7438d8dcd3c8d39558d986c90f07af1b34cf49fc3063fd1a8316
+https://streamflexsmm.in/Artl-Digital/COLORS_HD.m3u8?_t=cfcdbf86032764f31197faab16c7fa58e886ee43c655df3a266ef12b22630c7cef6a0770ea99b4c467647ad0f5de5905dd021467575998589465b1b6e0fe3017
 
 #EXTINF:-1 tvg-id="COLORS_CINEPLEX_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Colors Cineplex HD
-https://streamflexsmm.in/Artl-Digital/COLORS_CINEPLEX_HD.m3u8?_t=b06a11bf0fc9de6d49f0a9e8ca11cf4c257b4cd8e7ca3dd9cefcc2be200066d948bebd7b062fdf0ec5e41418215bae580b494162601e0fae9d23048831d3e495
+https://streamflexsmm.in/Artl-Digital/COLORS_CINEPLEX_HD.m3u8?_t=075db5bd4fc625b1c3c61861695b4fc74a560f8e314cea4e637fa9d2a3bf83996d4ddec405917a62ddd3c949d8eba4eeb37cf4b7ad406d2c9bcec0d5c5e6a82c
 
 #EXTINF:-1 tvg-id="40" group-title="StreamFlex-Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-115-j5fl6g6w-v1/imageContent-115-j5fl6g6w-m1.jpg",&tv HD
-https://streamflexsmm.in/Artl-Digital/40.m3u8?_t=f4c7d9fcb3ce8a4e55b690dce9cd798eff1223a77e1ac5aaa225075b1ea81ed1717e9f75d2dc16108b9713ce8b2cbfdf986c826e2d1b668a4693e424226931f3
+https://streamflexsmm.in/Artl-Digital/40.m3u8?_t=060175c43b1062952775b7c37d2b4d75b75f8bc432799761a0378bf2781c605d545fba2e842b56f68baba52372ea44cf7c05ca611a32fe1f5193d54b58bc04e7
 
 #EXTINF:-1 tvg-id="BIG_MAGIC" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_MAGIC/images/LANDSCAPE_169_HD/image.png",Big Magic
-https://streamflexsmm.in/Artl-Digital/BIG_MAGIC.m3u8?_t=cbc1e2214d5390f85d682c2ca17078582a90d90c9c398085fe7c991ed024d02771a5ff6c8cffb39fdf9e10bb2fe58a8ebba84386585ea7afc331f64b32cb6889
+https://streamflexsmm.in/Artl-Digital/BIG_MAGIC.m3u8?_t=8b8f582a25aad44cacc91040117045d5937847a28f1897c8aae9971a3f306d4bb1c87b06a9659d5fbc58c0578de54aaaedb8c8dd1d5cf569d8bef5eba3f536c4
 
 #EXTINF:-1 tvg-id="DISCOVERY_HD_WORLD" group-title="StreamFlex-Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD/images/LANDSCAPE_169_HD/image.png",Discovery HD World
-https://streamflexsmm.in/Artl-Digital/DISCOVERY_HD_WORLD.m3u8?_t=7a4afcf7407d421d36ee841b8c12cd6f55c7005501e4f113a69bbeab4a1db2a0c6bda9100fffba0d1d3df0471f405738eccaa810e671e75aff8ef799eab51296
+https://streamflexsmm.in/Artl-Digital/DISCOVERY_HD_WORLD.m3u8?_t=f909335603eeb970b0793ca8c54ab9aef8eb184885cba3fce37f6fe133c27ee6426eae8f2be20b1d7dea9bda633e112a52fb78125122d34ab3dc9d297c72f269
 
 #EXTINF:-1 tvg-id="EPIC" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LANDSCAPE_169_HD/image.png",Epic
-https://streamflexsmm.in/Artl-Digital/EPIC.m3u8?_t=afac7523c81f32c543a569327ecfaab144d3068cac9e00d47ec31a7b39365e22ac3e0a23d0f2fb4b6135be70b5675bf9789e2940813f70abc22844e4347d0245
+https://streamflexsmm.in/Artl-Digital/EPIC.m3u8?_t=0a583b8a745b6b271d8eccbdb9f8a5613ca297d37ec47766095ed72e073975ee8ec9316a594027db3e146e0e549e2b473843f1fe0842d5d43361481cebc73c7b
 
 #EXTINF:-1 tvg-id="HISTORY_TV18_HD" group-title="StreamFlex-Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",History TV18 HD
-https://streamflexsmm.in/Artl-Digital/HISTORY_TV18_HD.m3u8?_t=beec447bd5f843c2cf20bd2bc6a77f1a5e6fadfbff0044b84ec52316b5bb6cbb11b8d5ad5256e5b23e4f8622f9438ffd2f0eff745d249756794a412f604b9622
+https://streamflexsmm.in/Artl-Digital/HISTORY_TV18_HD.m3u8?_t=7baaf8d8fbc0c226903c03cc2d5e748f4f076bcc57d587a0e86ca9d219c4c670f66c1e39550dbe7d20f02899a7312c66f3fc3d0d21f52712a8b63602096d243e
 
 #EXTINF:-1 tvg-id="AIRTEL_MINIPLEX" group-title="StreamFlex-Airtel Special" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Airtel Miniplex
-https://streamflexsmm.in/Artl-Digital/AIRTEL_MINIPLEX.m3u8?_t=fb65dc64d9b41e8bda8930598c6168ee4fe64b296a28cacf9395235e834061654d110086defd2ff899a3a1673186d433c04fe58e31c36be25495ed42f3ed3ce2
+https://streamflexsmm.in/Artl-Digital/AIRTEL_MINIPLEX.m3u8?_t=f4825e4b437a639e5498014c49fadd0dc7ebd53403c0b572b64f25781923242d26c01f4a3ad7abeb20e490b7ff79b0c771b6cd6c3d41614f070bd405687fad6f
 
 #EXTINF:-1 tvg-id="NAT_GEO_WILD_HD" group-title="StreamFlex-Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD_HD/images/LANDSCAPE_169_HD/image.png",Nat Geo Wild HD
-https://streamflexsmm.in/Artl-Digital/NAT_GEO_WILD_HD.m3u8?_t=4873eeab60893a286e60ef5f0d951c8c54ef0d282fed3cb93f49741a62ed8ee60faaf4399d629b9b3caef17ac4eebfadf3ca403597e0791954a335d270b4545f
+https://streamflexsmm.in/Artl-Digital/NAT_GEO_WILD_HD.m3u8?_t=6d5c38c1baa850797f0d68f9590a208ad188e81e5fc9d97dc4b2f5c0d97fd390c3bbfb772190f859f7f3038d61e974f1df870032de3543ef4e9ea72d5a9099a1
 
 #EXTINF:-1 tvg-id="JALSHA_MOVIES" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JALSHA_MOVIES/images/LANDSCAPE_169_HD/image.png",Jalsha Movies
-https://streamflexsmm.in/Artl-Digital/JALSHA_MOVIES.m3u8?_t=9487036cb09446ae19c8cf4c8c7d61ddbda64d23127b5d04e8df8c57ea97cdfce98082f876f489aa7ebc75eb70e8a6723e788305c9da348230eddc554ef5e703
+https://streamflexsmm.in/Artl-Digital/JALSHA_MOVIES.m3u8?_t=0ca74a406819a164f19d1dbfa21a889df11743f28f0b209738947b8e864ce91b3b23a56b6f928c572972b5352798cbd3abd754887dc6e81acf89c71c5d72b86f
 
 #EXTINF:-1 tvg-id="STAR_JALSHA_HD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e879751838555841d57fcc/images/LANDSCAPE_169/LANDSCAPE_169_NYu82yUQc_STAR-JALSHA-HD.png",Star Jalsha HD
-https://streamflexsmm.in/Artl-Digital/STAR_JALSHA_HD.m3u8?_t=695e0679853037f775444438ffa5c530931d34bd4787fe98459787157a30386dae6c4cafabdf1b5c39fcd28a7f10ea6c47fc71fb3015d484d9148f4c396c014d
+https://streamflexsmm.in/Artl-Digital/STAR_JALSHA_HD.m3u8?_t=6e7a7cf6765eeb80f50e693e5987320365e6167ee55c9b942adf2c3a5b340b7343ce3e68e62774068ace23df8aec6c13473b9242516035d5129519a7c13ad167
 
 #EXTINF:-1 tvg-id="STAR_GOLD_THRILLS" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Gold Thrills
-https://streamflexsmm.in/Artl-Digital/STAR_GOLD_THRILLS.m3u8?_t=2099f67bdc3a60951898e4c97529ab7035db85bd94c6a52cbd3671a2b659a44acc21064603a1458694322d720a1ca0e53f13cdb859ffaf323c53f54b7b28ff2d
+https://streamflexsmm.in/Artl-Digital/STAR_GOLD_THRILLS.m3u8?_t=0ab54297680abed3057536ec9e28f7798d12acd0c51f7371954d44ebe5d8e43c47af13873b087b03cf24fec8cd2179f2edce18b7f3e6c191e63fe3643fe6d8d5
 
 #EXTINF:-1 tvg-id="523" group-title="StreamFlex-Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11967-j9luigc0-v2/imageContent-11967-j9luigc0-m2.jpg",Zee Anmol
-https://streamflexsmm.in/Artl-Digital/523.m3u8?_t=ac197e1c92cf72943f8b69fc0c2b59a61450be0736596cd5904bb4aad277fd1ce54fd5567b744de37792113d55e1ee6c358c4747413eed6ced60648f8ae4ed7c
+https://streamflexsmm.in/Artl-Digital/523.m3u8?_t=099b6b602333193c05fb00c2e1a2896324ec01666b8a2cd0ee3c571a1951e91a60f05cb170ab675067e32b45dc016f90d2798b6569b66f3c2fbd7dd8e700bffd
 
 #EXTINF:-1 tvg-id="64" group-title="StreamFlex-Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11091-j95hdiq8-v1/imageContent-11091-j95hdiq8-m1.jpg",Zee Anmol Cinema
-https://streamflexsmm.in/Artl-Digital/64.m3u8?_t=a2726897c992d4844cdac161aff2c7d8ea92f09993e7a0b9ef4515ea5d8d379e06f255e51e1f05ccad6717e3bf54106743c093012ccfd1b4871c6cd3e3aa63e4
+https://streamflexsmm.in/Artl-Digital/64.m3u8?_t=0f9af8ded500788a69677f7b443aac4c1584635d83ee9204ef8d94abeb8f5d43bf41c6bf3e56e5bb8cc0068ebf742f9f19eb99eff0e540446e7eecb84790dd96
 
 #EXTINF:-1 tvg-id="ZEE_BHARAT" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Bharat
-https://streamflexsmm.in/Artl-Digital/ZEE_BHARAT.m3u8?_t=cf8f51c91f5473e4a36013f5b6ee5c1325b4f0b65dcbc8cb6d1b6f1f6c7ab3b767cdd771e9cbcd4716840a5376e3616fef3de3ed7351e487387df94e3ea7cbb1
+https://streamflexsmm.in/Artl-Digital/ZEE_BHARAT.m3u8?_t=5a54b40f22200643459f2451ac5e0878303fb8d441e51bd83815a254a22b4b5abe9c53d55fe3889ecc925008524df714d7cc418aecd8486083126e1845b7c43f
 
 #EXTINF:-1 tvg-id="ZEE_NEWS" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee News
-https://streamflexsmm.in/Artl-Digital/ZEE_NEWS.m3u8?_t=0095f3f10b96c8ad2893623c0d69b6e382512c70b9fef29cf7ff4d9136bb45ec47719d05149f47edde156d8cde154510eaf4e7f7db9a4896d8af4269582b302b
+https://streamflexsmm.in/Artl-Digital/ZEE_NEWS.m3u8?_t=30e4b4a1219eb39122fdb917e2d9f8ed0731811a3b71b8f6c88a0bce16e0f919d5ff75341c184562f8a5adb2b693d88afe8cefbfa4a5e42e1e1d7a68b614aa57
 
 #EXTINF:-1 tvg-id="ZEE_NEWS" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee News
-https://streamflexsmm.in/Artl-Digital/ZEE_NEWS.m3u8?_t=0095f3f10b96c8ad2893623c0d69b6e382512c70b9fef29cf7ff4d9136bb45ec47719d05149f47edde156d8cde154510eaf4e7f7db9a4896d8af4269582b302b
+https://streamflexsmm.in/Artl-Digital/ZEE_NEWS.m3u8?_t=30e4b4a1219eb39122fdb917e2d9f8ed0731811a3b71b8f6c88a0bce16e0f919d5ff75341c184562f8a5adb2b693d88afe8cefbfa4a5e42e1e1d7a68b614aa57
 
 #EXTINF:-1 tvg-id="ZEE_RAJASTHAN_NEWS" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Rajasthan News
-https://streamflexsmm.in/Artl-Digital/ZEE_RAJASTHAN_NEWS.m3u8?_t=cbb253be6bd750adea44667b652f14157e7d463ada7096b816d352027071beee7e8a720cdd7e7024d3f155193ef00f24e60005916541a4a1218f20d563b085cf
+https://streamflexsmm.in/Artl-Digital/ZEE_RAJASTHAN_NEWS.m3u8?_t=0346d1c3e6f608e7a38c850f3706d6e8483d7aa59e21827a73837b84a0ffaf0a6cb210df54d6cb6c5df9c78a244fab474ecd27f4942df0a4fedddedf85568801
 
 #EXTINF:-1 tvg-id="POGO" group-title="StreamFlex-Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LANDSCAPE_169_HD/image.png",Pogo
-https://streamflexsmm.in/Artl-Digital/POGO.m3u8?_t=2a236790299ae51f7de4538e4fbe592ea21213897b5e743d24a7fd891d01fb9ca383d2d08d548e8c9180ea35e7591b844b7eb1466f8a4bc64d2827e3cc536453
+https://streamflexsmm.in/Artl-Digital/POGO.m3u8?_t=ce2842d50977f97957bd3934b1b88d6a1fc864aa0ce4623db4bfe66814262761c97ae98c07d95a0c0e3d715cc69640159105e7f9ab8ef6bdc18bd35d30348281
 
 #EXTINF:-1 tvg-id="DISNEY_CHANNEL" group-title="StreamFlex-Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LANDSCAPE_169_HD/image.png",Disney Channel
-https://streamflexsmm.in/Artl-Digital/DISNEY_CHANNEL.m3u8?_t=e290d3ea4aa1cffe361fc9743eff1c31f9cdcb8403fc59d7a510c9d62c977efddb390288bc12bdca428a0bb2535dd21c07650080cb971718ae20e2ebe8d7a439
+https://streamflexsmm.in/Artl-Digital/DISNEY_CHANNEL.m3u8?_t=d6c7a6eecd425357b41b1b88821683349ae1173e30bc6e0c2498f9097f4b7045c6f0d6a4a05f1b592cbfe6325bf7120bf6c1504deccba816fb266c6533cbe6d3
 
 #EXTINF:-1 tvg-id="NICK_HDSYMPLUS" group-title="StreamFlex-Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",NICK HD+
-https://streamflexsmm.in/Artl-Digital/NICK_HDSYMPLUS.m3u8?_t=a4966bcea81c8340704b0929fc90c11737bee73fbe5701a88b58000a6263ae10c09082221c15a2d3e9e6c53984781b7b0b91bcea59511fafef563d9cff104d5f
+https://streamflexsmm.in/Artl-Digital/NICK_HDSYMPLUS.m3u8?_t=d30a1ccdaec417cd5f2773b09913a3c474a944f8f386acb6ca0254e712df624182f632d976c3b0723118f341cbd78a52e84fd3a848d06affeb7a19950143d066
 
 #EXTINF:-1 tvg-id="MNX_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LANDSCAPE_169_HD/image.png",MNX HD
-https://streamflexsmm.in/Artl-Digital/MNX_HD.m3u8?_t=981d761ee7dac2a0bd43053720dce88bc85f447a9e1f97c6cf170c5a4432fe757e36a78c7b04f3cd39378d1cf47dc6d05523e2d16b01e0f16949bbc90731ee86
+https://streamflexsmm.in/Artl-Digital/MNX_HD.m3u8?_t=1d41fed918bd9f0393f5ebb28c178e45a66a007d47ccb510100a3d22d169b71d3495ca17d39c3d9847e19c4e1d5936f183200805aea342f955a12babf39c0889
 
 #EXTINF:-1 tvg-id="562" group-title="StreamFlex-Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12093-j9ooixfs-v1/imageContent-12093-j9ooixfs-m1.jpg",Movies Now HD
-https://streamflexsmm.in/Artl-Digital/562.m3u8?_t=024bd6f0ea611611727dd7b4ecb682624c879178370ba1aca553d44e28e152ffbea608e4dfa3f391e7c58569354b3187d552901ab15eae5c2fad3ed2eae2ed54
+https://streamflexsmm.in/Artl-Digital/562.m3u8?_t=268ff1e4fc37f4bb524dd6523b21aa2e55669a50951c3d7b26303ebfd6aae2f9fd4eaf890a40307bbb92b5a65d2dd734b4f7f9848eb8e9c6ccbea20f5cca6e85
 
 #EXTINF:-1 tvg-id="DISNEY_INTERNATIONAL_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Disney International HD
-https://streamflexsmm.in/Artl-Digital/DISNEY_INTERNATIONAL_HD.m3u8?_t=0a7591694a9fef1d469d1711d3c19c3bc640240895502ac6e40f7442c49333693457e980ae034d4c267d46ac76dda2abbdfc0043ca6f69cec37fb612929baacf
+https://streamflexsmm.in/Artl-Digital/DISNEY_INTERNATIONAL_HD.m3u8?_t=1caa9e411cad92a34918aca648e96b2de8c0a14f604e6ac216fa827a8e609694515464da08f93f0251a6ccbb6d43aa8eae364748558c9af761c29c563f38e977
 
 #EXTINF:-1 tvg-id="7" group-title="StreamFlex-Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16-j5f9ui8g-v1/imageContent-16-j5f9ui8g-m1.jpg",B4U Movies
-https://streamflexsmm.in/Artl-Digital/7.m3u8?_t=99f123ad0eac6128237934d630749a55e390a821c49c54facca61d7a01ae60a1630e4bde198e2a83a92e2307ec3781c87f4aaff46bd22a9301b0652d93af4b12
+https://streamflexsmm.in/Artl-Digital/7.m3u8?_t=3ce7d6f4e49200e28a4bf739aca2e8deef1e05baa09efedf2077473e6f04775cf70a98245c3c49e69b86ce7b547769eee6206aebceecb5fb4ed63a76a2f896c9
 
 #EXTINF:-1 tvg-id="CARTOON_NETWORK" group-title="StreamFlex-Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Cartoon Network
-https://streamflexsmm.in/Artl-Digital/CARTOON_NETWORK.m3u8?_t=06f59257c47f05e2ffd01b63ad2cc7e0f7e38022f6263733a5e0fa6913dbf5a3c58671e8dafd1ffaa9c92d251f5f5e5d9a8f5560393d56ad066a436428ef06a7
+https://streamflexsmm.in/Artl-Digital/CARTOON_NETWORK.m3u8?_t=7a0f2cc55d2b328a0025c28d41c008ea8130e418e95739f5467d6e478a6bf0ff8844ca9964a6b00721e59b307fa0937f784f5b2d01aa1fa952ab7cddbba6c629
 
 #EXTINF:-1 tvg-id="DANGAL" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LANDSCAPE_169_HD/image.png",Dangal
-https://streamflexsmm.in/Artl-Digital/DANGAL.m3u8?_t=c3620efb20002945179370562e0bdf7b04b384c3d75e95b2e0a2abb31568769feab39aebacb67e253059cbeaba2a1bbe00496200c32ee0b4c64a381eaa94c5e8
+https://streamflexsmm.in/Artl-Digital/DANGAL.m3u8?_t=14c5d2e1384e62e09881b21bb24afc8a0a62fa191d2a09839337402179a97772fd9fdbe3464748508c4c3669f30fdf04894f0440b59e6bb4ac7c898ed06e2e21
 
 #EXTINF:-1 tvg-id="DISCOVERY_KIDS" group-title="StreamFlex-Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LANDSCAPE_169_HD/image.png",Discovery Kids
-https://streamflexsmm.in/Artl-Digital/DISCOVERY_KIDS.m3u8?_t=80b17ddcb71ee0a1f73e7188900ffcc2e415bc2d9f11b48eeab9106ad1736f2cd37528287c400dfaab8d85249bcefe8cf8a1d4e05fdaca000059a67c33f8b59e
+https://streamflexsmm.in/Artl-Digital/DISCOVERY_KIDS.m3u8?_t=919a1573ba9df5ba8cbc830ddcae124ffd9a7b5bfd602eaf7ba3659ca404a6935470b6d4cc97171571fcd197a92f2460d433116e0f2fadbb6e0270d7b2e35a3a
 
 #EXTINF:-1 tvg-id="ZEE_BOLLYWOOD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Bollywood
-https://streamflexsmm.in/Artl-Digital/ZEE_BOLLYWOOD.m3u8?_t=799948f6776f83974cba28e5cbda5031c234ab2a29857d0c5feed63d5eb4b63940182f8905d64fdcc0607c47090421887c3c0a3c2c33787643d774aee7c3aeb7
+https://streamflexsmm.in/Artl-Digital/ZEE_BOLLYWOOD.m3u8?_t=28ba9746d6bc2439871078ca3f71dcc4a8b0f3afa69ae0219fc3e959babf61513d83b65e9e21d0b68d7d321492b3a97357071cd0d3e7e53ae5d42f8ac12df4d6
 
 #EXTINF:-1 tvg-id="ALANKAR" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LANDSCAPE_169_HD/image.png",Alankar
-https://streamflexsmm.in/Artl-Digital/ALANKAR.m3u8?_t=8e3e408a2a0df154c9eed1f1534c04a25ecdb3e4676f0951c96a12dbf32c122df581034adb51953ea014e117d6889e2962e5339b665d493a72682b06796cb88d
+https://streamflexsmm.in/Artl-Digital/ALANKAR.m3u8?_t=be336f090bdc601db9fb29746375f4d0fad3c4546060a738b983aa16ac825033a9a12cfc2d6ff9b240608bf4b038d41d82f686dd1e74535231a8980273d85a25
 
 #EXTINF:-1 tvg-id="730" group-title="StreamFlex-Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_BoxCover-v9/B4UKad_BoxCover.jpg",B4U Kadak
-https://streamflexsmm.in/Artl-Digital/730.m3u8?_t=21ee36779f5a683f767e1a482d7b41f03488737ab617d6c3fe6c3dc135a5033ff64a1659aafb531ffc3bc93275aba6afde0829aef8ecfea494767bd3749ce914
+https://streamflexsmm.in/Artl-Digital/730.m3u8?_t=e082b2d65391528a86177b017ef29f61efcee332916c354fa36b3873e5faa6b8ae64fcacf7350a4896788914fe7749cc02074d9f9d699e45ac5b999692a31f16
 
 #EXTINF:-1 tvg-id="SYMANDFLIX_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",&flix HD
-https://streamflexsmm.in/Artl-Digital/SYMANDFLIX_HD.m3u8?_t=e8db5cff73b8893e9ba0aef647a49c0638969fccce9233d346a8751c49f44648943b905adf5490afb5c319aec8f60a5a7f88c7190f27cf18b2121bbc6054981c
+https://streamflexsmm.in/Artl-Digital/SYMANDFLIX_HD.m3u8?_t=62c9f3c79deca99af9043360ba8f814930daadf1e0771d4669dbd9d7d0c3411221d93f7e8295e8e68f10e4ae30284f9bd2f1aaf8c78e4a51cf82ce2881fa3072
 
 #EXTINF:-1 tvg-id="DANGAL_2" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL_2/images/LANDSCAPE_169_HD/image.png",Dangal 2
-https://streamflexsmm.in/Artl-Digital/DANGAL_2.m3u8?_t=a49f47ee343e9205e538b1d915b9201c3827b272f4f89e7911cb7887195802369f854e80d8023d66ad05d4025dc4e94255f80df520d446c54b4efe9e9b3d1834
+https://streamflexsmm.in/Artl-Digital/DANGAL_2.m3u8?_t=e38c0bba0947e77a6601e032f53bc36b101582ef0c17e0bd154015042ece85df22dc0b7797a749f90cfb1c5f59bc3a86f11ca21766feaa7a4c1b5eb8a8b458c4
 
 #EXTINF:-1 tvg-id="DISCOVERY_KIDS" group-title="StreamFlex-Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LANDSCAPE_169_HD/image.png",Discovery Kids
-https://streamflexsmm.in/Artl-Digital/DISCOVERY_KIDS.m3u8?_t=80b17ddcb71ee0a1f73e7188900ffcc2e415bc2d9f11b48eeab9106ad1736f2cd37528287c400dfaab8d85249bcefe8cf8a1d4e05fdaca000059a67c33f8b59e
+https://streamflexsmm.in/Artl-Digital/DISCOVERY_KIDS.m3u8?_t=919a1573ba9df5ba8cbc830ddcae124ffd9a7b5bfd602eaf7ba3659ca404a6935470b6d4cc97171571fcd197a92f2460d433116e0f2fadbb6e0270d7b2e35a3a
 
 #EXTINF:-1 tvg-id="DISNEY_JUNIOR" group-title="StreamFlex-Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Disney Junior
-https://streamflexsmm.in/Artl-Digital/DISNEY_JUNIOR.m3u8?_t=aae671bc0522e064266dedc9c7e6efc36e5b946d329f57bf5c981a4aaf37477470670de144e0d7aa9dadbf120e51e00505439e102eb2e32276735031a6d2b752
+https://streamflexsmm.in/Artl-Digital/DISNEY_JUNIOR.m3u8?_t=5901fc8cc4b0d0ad2dcf017d0e05ad2d8bb7fb4480c9997fcb37286ad8aa8e14ba1feacb22439ddb7d199a7b4ea33614acd2991ac98af66a84b994f8c3cc44c1
 
 #EXTINF:-1 tvg-id="1499" group-title="StreamFlex-Movies" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_BoxCover_8b2f4929-47ca-44a6-a491-9ecc80b73fb0.png",Goldmines Movies
-https://streamflexsmm.in/Artl-Digital/1499.m3u8?_t=1826ae056e70f00e8022b201828f1244218abfa0b086323bf71a0b5dd7d2e1606e08a4234681708af330df356be11e00d9468ca9b7d8167f6e195e9f5ee10ae8
+https://streamflexsmm.in/Artl-Digital/1499.m3u8?_t=4621027b579416542b5e134c577bdfc782c32675f760b120c8a80268fe7d0bb5f50084159b970f0d420ba1a6498a50c5f8a56f520a890099475fd3819ce909f8
 
 #EXTINF:-1 tvg-id="HUNGAMA" group-title="StreamFlex-Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LANDSCAPE_169_HD/image.png",HUNGAMA
-https://streamflexsmm.in/Artl-Digital/HUNGAMA.m3u8?_t=932d337fd3b6e0aa6c0bbeaaf579c355a952619020e63c1adb79bd2e0408f903cf695556070c107829cac6826ad0643f23bf4f428c993fb3462a1691a4f5ea64
+https://streamflexsmm.in/Artl-Digital/HUNGAMA.m3u8?_t=d3cf718868faadb6101eb27a75d7afd85f3f915be9d07307e113351750fee52b4395be0c0b5745fad96d51bb631d254230d22c6e56cb84c4a2838c632db371e6
 
 #EXTINF:-1 tvg-id="ISHARA_TV" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHARA_TV/images/LANDSCAPE_169_HD/image.png",Ishara TV
-https://streamflexsmm.in/Artl-Digital/ISHARA_TV.m3u8?_t=000a01ea069c44a1143398e2f8313e1bd723a545943fc17d5eebebb091e5698849cd4b337ed55e79fb76a27008bd16a9f367af31ca37389114c8436aacb3c7d7
+https://streamflexsmm.in/Artl-Digital/ISHARA_TV.m3u8?_t=9e340633874ea20241f6532d39fb78fa16e82596b43eb018a00320e03ec507d54483451b4028ada9a8bb86d200249105d6fe32b51b540d1cbc6106b606df7bf7
 
 #EXTINF:-1 tvg-id="STAR_GOLD_ROMANCE" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Gold Romance
-https://streamflexsmm.in/Artl-Digital/STAR_GOLD_ROMANCE.m3u8?_t=be032976c6fcc9bca9f718773842f46861eb3698f789e3871aad0a5fc02116b3536ab6ceb733d8d22206bd0cd7e58f6b8b0a54570eb31dc08e592bc4899056f2
+https://streamflexsmm.in/Artl-Digital/STAR_GOLD_ROMANCE.m3u8?_t=21be57b8a11d0c60257bd342f1e2f9969736f1a3417efcd89ef2227c1cb430a36ea0854189553dcb46ddb71b12e182400582595865e0caa8ec1ad007f5572f19
 
 #EXTINF:-1 tvg-id="54" group-title="StreamFlex-Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58022-khxpmalc-v1/imageContent-58022-khxpmalc-m4.png",The Q
-https://streamflexsmm.in/Artl-Digital/54.m3u8?_t=f199c734560e42d27491994cb5e57b9e1791913b21f6387947d42a36c8f6e125c04d29f6312972d25ba9fb3ad3ddfcaf851ad0924246b30e594bf7d49e6ffd9e
+https://streamflexsmm.in/Artl-Digital/54.m3u8?_t=773f8d65fa7391809ebf665d8a2fac6495286c69ecaf6131cbbd2122f389936de7a70ffc08b606c6c5b5aaa20f1faa593c50e89942941fef958004d597476110
 
 #EXTINF:-1 tvg-id="ZEE_ZEST_HD" group-title="StreamFlex-Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",ZEE ZEST HD
-https://streamflexsmm.in/Artl-Digital/ZEE_ZEST_HD.m3u8?_t=c6103b3fc063c1d6771f2996bafb5f65eb9b5d5adeb187bc4eaf2da7920bdfd63f3dd99d88922bd8f086aeaf1361f2e549b67a7f6740183387775cc819e95a53
+https://streamflexsmm.in/Artl-Digital/ZEE_ZEST_HD.m3u8?_t=6392b00e2fbddd3989963257a9b712552b69b03d54de870e2b71b4018a17de38d9898bc3531646a79e84a8958ac51025df97ef1885084781e0ae9c2bd2c8f11d
 
 #EXTINF:-1 tvg-id="STAR_SPORTS_1_HD" group-title="StreamFlex-Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD/images/LANDSCAPE_169_HD/image.png",Star Sports 1 HD
-https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_1_HD.m3u8?_t=228dc430158b693c597df0cc6d9088b631295f6591043b97c978f14454f8e030c28e1fb18bbdc9ccea127bfc5255982c2b30343f2b2aed0e73006470d4c2e544
+https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_1_HD.m3u8?_t=e108ca4045493ddfa3acc4e69de454896dd7da42aab2e335992d9a6af0ffe2dd060c019c0a88dfc9ceb94894fea819d5229b645a486c088875a4400711a5c14a
 
 #EXTINF:-1 tvg-id="STAR_SPORTS_1_HD_HINDI" group-title="StreamFlex-Sports" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LANDSCAPE_169_HD/image.png",Star Sports 1 HD Hindi
-https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_1_HD_HINDI.m3u8?_t=3d87866169599574bb1ade64d1d71238195c7eb59a9ad5ddf65ed0f804450f9fcd4f6e7a46707b3f44326221d4d349f19f23284afb9b82c63dd6939fc8da8818
+https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_1_HD_HINDI.m3u8?_t=16ccdc0c1b1a8fbe5ace6b9b20cdc41c4e448da590e54ca0d4f56c2c2269453505bad11ed67b89c38d51b574592705ce59e7605815b4460fc515e6ca66beb549
 
 #EXTINF:-1 tvg-id="STAR_SPORTS_2_HD" group-title="StreamFlex-Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD/images/LANDSCAPE_169_HD/image.png",Star Sports 2 HD
-https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_2_HD.m3u8?_t=fbc2ce3d6818f8cccb72197fcc5c801846fe67899112b9ec1174c0ee136407371d8123221d36c9b86ff9cea26c0be347ba8b05d21a95f022fbf193a5acdb3415
+https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_2_HD.m3u8?_t=a7040ffc58b33b5a455be6ed4166b6fefd2fcf72840763cca05508343373d2d3db2bd87e7a1eaa116d0f5cf5c4ae11e08ae49695555a3efe9cfc6ded7bcd5ae7
 
 #EXTINF:-1 tvg-id="STAR_SPORTS_2_HINDI_HD" group-title="StreamFlex-Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD/images/LOGO_HD/image.png",Star Sports 2 Hindi HD
-https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_2_HINDI_HD.m3u8?_t=5e227431084eec5b45a263f9c5cfb5dc74bd4b56265180cad4c34d35bd74f63083ec8f33dbe74ae65e679a0c85dddbca9f2f0b7eedec712c059d8d1962c81517
+https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_2_HINDI_HD.m3u8?_t=a6b914a108cf473fea205096953c82fbe34443742e2d84bd686534c1f8da6b8dba8856f45cf8a70fcc6c15061d3f77c0febde97f0ccf34178359dc729ab0fc8d
 
 #EXTINF:-1 tvg-id="STAR_SPORTS_3" group-title="StreamFlex-Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png",Star Sports 3
-https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_3.m3u8?_t=7799ac1fcd6c339e8301d6f225753bb1f0112ce58d8ae346054711110f2c1e0b9801c0a905b8813346e99904112fc7df2ca2fe2d4884dc7ba6eb2e14347a9147
+https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_3.m3u8?_t=4f5cfd7b57939519f4164b38068b0000716b30307cb365fc2770df523aba2030a40a1f767dd798979e4489417b41304d28e4a4c9c1a3e0387ce13feeb6c117c2
 
 #EXTINF:-1 tvg-id="STAR_SPORTS_SELECT_1_HD" group-title="StreamFlex-Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD/images/LANDSCAPE_169_HD/image.png",Star Sports Select 1 HD
-https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_SELECT_1_HD.m3u8?_t=6bfd3bd3379a82a8130d60099fd5eb46c015976a2a090c424692a2a72d3aa3d3adcbb41f2ec9e9d9c9c15b3d96125d397c1b398872c42241fea4140d7f856b8a
+https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_SELECT_1_HD.m3u8?_t=5b7b599c689057d6c0a5b3aa5ebcdc646471b583da6a31d6a07cf325b550328c68595a2d01a89d98027d088c3a498f3cc2f610cccb5d33a5909b98d01fdd352d
 
 #EXTINF:-1 tvg-id="STAR_SPORTS_SELECT_2_HD" group-title="StreamFlex-Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD/images/LANDSCAPE_169_HD/image.png",Star Sports Select 2 HD
-https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_SELECT_2_HD.m3u8?_t=5f7acec880f6f3038dd8de830c52a175299ba7a3b2e4d1fe097f1cd927b6f6159a2f68d1f63dd00bbeaa12a9861c1d78f79c64433efa85177107699ca45bbd22
+https://streamflexsmm.in/Artl-Digital/STAR_SPORTS_SELECT_2_HD.m3u8?_t=132cdb1c3e65a489d06489de3dbc4fa45824254c21295ef651dd328763dcb0f27e8176e065645d579955e2e7e400e94bb57667c3cad6951cb686ae8fa9cff7b0
 
 #EXTINF:-1 tvg-id="SONY_SPORTS_TEN_1_HD" group-title="StreamFlex-Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 1 HD
-https://streamflexsmm.in/Artl-Digital/SONY_SPORTS_TEN_1_HD.m3u8?_t=4c2584684cb1b1f36aef91a78333673326a6dbfbd603f82970f68e9892e336d101d38f9ac1e9bf1c5ee1a8ba73b164cc81a1eb8524d495950f6fffc57a7e1ccd
+https://streamflexsmm.in/Artl-Digital/SONY_SPORTS_TEN_1_HD.m3u8?_t=8bd684cb17131ea479ff00913755d48a015089a3548da83219648b196e6d9acd3ec64cb613486b298802e051e035f32195106e8c3ec3d2a7d1cca860126fe2be
 
 #EXTINF:-1 tvg-id="SONY_SPORTS_TEN_2_HD" group-title="StreamFlex-Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 2 HD
-https://streamflexsmm.in/Artl-Digital/SONY_SPORTS_TEN_2_HD.m3u8?_t=4a237e442d747e8f90c94fcceb339ba16b5b73f5d0ec2bce7c007f11039d9248e33e0e911613c2749d39f1241b78ca54f77d1c97e4f918d09a492a7a684721f8
+https://streamflexsmm.in/Artl-Digital/SONY_SPORTS_TEN_2_HD.m3u8?_t=1c38a5ae23b33fda7cfb99b6f9e50a820eab358669a45d5e7c627fe3b7b4597e560b9ab21c91079ef1dc7f59fd4099681dd5319733d274d0d382cc58eb3502b9
 
 #EXTINF:-1 tvg-id="464" group-title="StreamFlex-Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11785-j9kynnm0-v3/imageContent-11785-j9kynnm0-m3.jpg",SONY SPORTS TEN 3 HD
-https://streamflexsmm.in/Artl-Digital/464.m3u8?_t=3982dbb6bbb80ff1f5d92f2c04950549d29728a0b6227ec39529b5cb87a7f0f745033179273851e004c3cbe6f4e1513c6bc76b919e1eb55872e88ba06be0255c
+https://streamflexsmm.in/Artl-Digital/464.m3u8?_t=a2b2ec9b2b7a5a926c9eceb956865875a2764f58a4209bf198cbf5fafb1aa979881ddc6734ddb3472a1970d1ae211b7d414fa971836d1f5bb6c8bb2bd1947c6e
 
 #EXTINF:-1 tvg-id="SONY_SPORTS_TEN_5_HD" group-title="StreamFlex-Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 5 HD
-https://streamflexsmm.in/Artl-Digital/SONY_SPORTS_TEN_5_HD.m3u8?_t=937e153e240fb41dfb25a2960bde9e20fcb2a0b52390b9e59cae9604af326e676667733ec84eb77b56e51779b6360c6a6f4b2f592ae0690ea682c092faed6240
+https://streamflexsmm.in/Artl-Digital/SONY_SPORTS_TEN_5_HD.m3u8?_t=c7ecc8c0afee8ed5b46e34e2c0f88175209a5e8503bd9a5bb7418125f701af41c1f8d577394a5d1966355b14909b783ead5a2ad9ea4c4e4a25953bff73b29e77
 
 #EXTINF:-1 tvg-id="SPORTS18SYMHYP3" group-title="StreamFlex-Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP3/images/LANDSCAPE_169_HD/image.png",Star Sports 2 Tamil
-https://streamflexsmm.in/Artl-Digital/SPORTS18SYMHYP3.m3u8?_t=2890a3cc80cb40967c7b1db6d1deafc4be27ebfc2364cd01b9daa4fe5271a625903f9e2f51b8c885fe41b4889c05290b28a8898abbc5aed4363fbfab51d07a23
+https://streamflexsmm.in/Artl-Digital/SPORTS18SYMHYP3.m3u8?_t=2e1ae9223667e8a5b511746cf1a64cbef3970403a7fe049da7988a56c62bebe7dda313ac97c382cdddf997ea91674a0ae813752395e26c3e2eb951eb1277c21d
 
 #EXTINF:-1 tvg-id="ZEE_CAFE_HD" group-title="StreamFlex-Sports" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png",Unite8 Sports 1 Hindi HD
-https://streamflexsmm.in/Artl-Digital/ZEE_CAFE_HD.m3u8?_t=b680ae893b28cd6930a32334eab51593421590a0be064f648367010ec01e038503284f4cb587d9a7c3c8738d4ce2cbc5a1787909f441d20bad880409da4bdee6
+https://streamflexsmm.in/Artl-Digital/ZEE_CAFE_HD.m3u8?_t=89114dc3ad7703918cbcb1a46dc8ca09dd805220b67a39ce5e147717454299b99a75e121c3105ca90aaae3e23a0fd520cae84f1f939e01e684db9074e879d49b
 
 #EXTINF:-1 tvg-id="AND_FLIX_HD" group-title="StreamFlex-Sports" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite2hd_wdpxkw.png",Unite8 Sports 2 HD
-https://streamflexsmm.in/Artl-Digital/AND_FLIX_HD.m3u8?_t=cd3040cb280cfed236784a49fefe0b859aed8e92843dc403fd683920206d394e66f41ae9d8f233bfcdea3585d8b7e4e6247fd07180ba242465685b088e176e43
+https://streamflexsmm.in/Artl-Digital/AND_FLIX_HD.m3u8?_t=ea6fd4e67d2d77746bafeffcdea6301da8802647095d8662abd945429f9d50ee55123dde171ed8ee39cf1aad11879ce300cb019c373e2978914b2f5ac1aa783b
 
 #EXTINF:-1 tvg-id="COLORS_KANNADA_HD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LANDSCAPE_169_HD/image.png",Colors Kannada HD
-https://streamflexsmm.in/Artl-Digital/COLORS_KANNADA_HD.m3u8?_t=c98b603ee5482c0c28a4806e3bc8fabe77c585913e6db38960121efc84f652469b5ad5183d73952d803c26549b5a90a46c460eeda15d6af9e0c4472d5aca8332
+https://streamflexsmm.in/Artl-Digital/COLORS_KANNADA_HD.m3u8?_t=9c81004451c71597a19b17af79a1df02692988d3b0392ae972bcd98c057cad5a4980adc32e8c18d8ddf07fcd611156f98ac3252f91a428193d15dd05c07afeeb
 
 #EXTINF:-1 tvg-id="COLORS_KANNADA_CINEMA" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Colors Kannada Cinema
-https://streamflexsmm.in/Artl-Digital/COLORS_KANNADA_CINEMA.m3u8?_t=be8f9c8d81c35dbd4a37e657f4d4b10051fa8cb29717007ad7888fe5f97cf4d07d5faea4ad675963224d48399a645325f5e12b0f1baaea1a8f8a8cf5fbf96957
+https://streamflexsmm.in/Artl-Digital/COLORS_KANNADA_CINEMA.m3u8?_t=d8a243273a828e8b1e4d6002417060928eaef6a24a5680bab8452cdf55d3ca31ebdb842bedf85a0dda44a25043e74f7961d5a248d8e4b329529608edae7df068
 
 #EXTINF:-1 tvg-id="COLORS_SUPER" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Colors Super
-https://streamflexsmm.in/Artl-Digital/COLORS_SUPER.m3u8?_t=cf9ee66cec0847bfb0a77326ef67d34a59d446d9329cf080073ebeaeaf45677d0643908097931def3e3e3dcc17ec1fbddd0f383a9086991694ac5ceb68e9bbef
+https://streamflexsmm.in/Artl-Digital/COLORS_SUPER.m3u8?_t=d9fb99f641580783a8857993eb44c09fccfc04ac9be25daa6ebfa39fd40ce1c36372ce6cf60b7e7f60b17c2e40ced91bd2ad70070dfcf95bca0d28eedd992eb7
 
 #EXTINF:-1 tvg-id="1380" group-title="StreamFlex-News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/News21_BoxCover-v1/News21_BoxCover.png",News 21
-https://streamflexsmm.in/Artl-Digital/1380.m3u8?_t=7b9d4465df0a79b1f9068d8517f20e0a59ee70bb0fc1915f32b110539d91b29d7669409192ec9706b5d7f232dd57141ef3c1b21e3763276c252788dc8c8bdf5f
+https://streamflexsmm.in/Artl-Digital/1380.m3u8?_t=22cbd66690112984e3cce2b23dbaeaa111ddb54d85f076d9e86faafab370d9f301579f14048181a59f474600c0e107d39f713cd1ef8517a1fbae8006db563b4c
 
 #EXTINF:-1 tvg-id="425" group-title="StreamFlex-Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11680-j9khxjoo-v1/imageContent-11680-j9khxjoo-m1.jpg",Raj Musix
-https://streamflexsmm.in/Artl-Digital/425.m3u8?_t=f7af22f9a339a6b65675c4a0a2f94a9e1ce990b3dc24be4c2523878aa86834ab8a47f146bdc06e7df7450fafd574bce4615338a5658216e3bbd69a1d90098ef7
+https://streamflexsmm.in/Artl-Digital/425.m3u8?_t=f264bc49b5a499615a7399111d268c10e88701b849511524d35cdf0e917abac444951e7a634672437745e176bb6b1584f516ed7364d5b1c81a6764308acbf8db
 
 #EXTINF:-1 tvg-id="RAJ_NEWS_KANNADA" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LANDSCAPE_169_HD/image.png",Raj News Kannada
-https://streamflexsmm.in/Artl-Digital/RAJ_NEWS_KANNADA.m3u8?_t=d87da26b5f9d9caca94aab3bd8e17da021a74d3b0624914b52e93008acf18362ea81f418cb77841e08df7cec06254c7b63a26ffc19c06d53490d8e82ea940029
+https://streamflexsmm.in/Artl-Digital/RAJ_NEWS_KANNADA.m3u8?_t=4abfc8e9de1fb2f2a701647df0d6381fde671961413e2b5f1a26e3eda333af6171abb17eb8f457fd8b1d1dc8bb969b545940c2f5eb9787a5c8f282a0d6836bca
 
 #EXTINF:-1 tvg-id="STAR_SUVARNA_HD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Suvarna HD
-https://streamflexsmm.in/Artl-Digital/STAR_SUVARNA_HD.m3u8?_t=b90039b968635b4f3b037d1bb8c0071411a3e4daf7018c1c68acb4e0f8f57c13642933bfc3ab70f0f698800f7b4f4fe0e3870aa42894baf4c54b00d6132e4cee
+https://streamflexsmm.in/Artl-Digital/STAR_SUVARNA_HD.m3u8?_t=8f71f31f8c4a8a3cfeb237beb4f1f47d7ff50ae2aa49693ef8854cb41dd47ecdf52962594df246c6eadf4496db662ca66bda87f4f97f66422e8420c5fff0d8c6
 
 #EXTINF:-1 tvg-id="STAR_SUVARNA" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",STAR SUVARNA
-https://streamflexsmm.in/Artl-Digital/STAR_SUVARNA.m3u8?_t=87a17a82c201f66571afe70ed626d51db91631c41aef99e81b6f71ab9be0059d3a8071a0aeb0c106c2c06fd2cfa2c8ee764ed3f4f4d5525632a3ebfdeba87cca
+https://streamflexsmm.in/Artl-Digital/STAR_SUVARNA.m3u8?_t=3829a9696c486f06876c738c7c68f7329bec4d067383f6843bac03990e4364e68d95eb8099d0dd67e825742bbf4b2ba57e96980c27746b9b5bc0575515718c93
 
 #EXTINF:-1 tvg-id="TV9_KANNADA" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",TV9 Kannada
-https://streamflexsmm.in/Artl-Digital/TV9_KANNADA.m3u8?_t=7190be6cb0f93c8f2467a72c8885f21bf89effefff7bd64b0e7b256ffda864d7571e04b6e142689a70fd6106199e2d323e3254cc57d5b76160d17234a4241d22
+https://streamflexsmm.in/Artl-Digital/TV9_KANNADA.m3u8?_t=bf0fe1470a777945313989204402f9d0cb684759392b033c244ad6987f78bd85e5bbf7480eebe5bd47fddbe2c4092acd9eb09dce3df84d182a9603b0f8d10fa5
 
 #EXTINF:-1 tvg-id="UDAYA_HD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_HD/images/LANDSCAPE_169_HD/image.png",Udaya HD
-https://streamflexsmm.in/Artl-Digital/UDAYA_HD.m3u8?_t=0d80ab74815bd0c02c6f8294710d2c08ce1109d077f7b8b4bf5a58faa3f765d07df12ad6524b629121b996408ebfc2922cc223686af83c27fa1aa87d121a9feb
+https://streamflexsmm.in/Artl-Digital/UDAYA_HD.m3u8?_t=017837645b2edeb139302275996747dc15aca81a9ef71f2d66aa21f371ed881d184b6808dbdf16daf067c747782ace4019ec5e243898d66929e232035e4efdc6
 
 #EXTINF:-1 tvg-id="UDAYA_COMEDY" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_COMEDY/images/LANDSCAPE_169_HD/image.png",Udaya Comedy
-https://streamflexsmm.in/Artl-Digital/UDAYA_COMEDY.m3u8?_t=76264382b9b8875f87952b600ac57be60e08e74d1815b8ba1e898adb9974388f6ba1a70d04b3f073c7fc5907a9c8abef7d068a412c00c2df1bab9623f52548ca
+https://streamflexsmm.in/Artl-Digital/UDAYA_COMEDY.m3u8?_t=8f7054b43ca66959bb9d5556d74890654681387f3c225334623d5ec42acbc71e729a285ac3cb3df2ecb758b76cef2498d51cdc0ff39345165c614165c137660e
 
 #EXTINF:-1 tvg-id="UDAYA_MOVIES" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MOVIES/images/LANDSCAPE_169_HD/image.png",UDAYA MOVIES
-https://streamflexsmm.in/Artl-Digital/UDAYA_MOVIES.m3u8?_t=458f5660914a0bfac145661d2f7db657cddeb96c619f9a011dfa6d2a49473735577f463dd18063ad92da8386d72faf68e1d52d37e8632b45e1bd9040953f4280
+https://streamflexsmm.in/Artl-Digital/UDAYA_MOVIES.m3u8?_t=285d5ec9ecc7a7b93d3f86bcdfae720f9d03c3ef06836cd5146280ef4a5a668d36bfdaed25fced131aac732f69de436d61e070bf47db474d1a7a3e9106c400cf
 
 #EXTINF:-1 tvg-id="SUN_NEWS" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEWS/images/LANDSCAPE_169_HD/image.png",Sun News
-https://streamflexsmm.in/Artl-Digital/SUN_NEWS.m3u8?_t=41dbdc499c47cca998f89aa97fd4fc339d107419a227bbafa279e270b8791a5c617a315f69315687dcfdd9126a8886d28971cde5608c39ade30ca74a96367547
+https://streamflexsmm.in/Artl-Digital/SUN_NEWS.m3u8?_t=bd6be3e6b0314dc4634b76f520e0a439726161ba8ca18a28580b5fe0c926e8dceb877f4b4ef0573b5f0308ee40bf3ca3f63631837c47717dff63330354477510
 
 #EXTINF:-1 tvg-id="ZEE_TV_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee TV HD
-https://streamflexsmm.in/Artl-Digital/ZEE_TV_HD.m3u8?_t=8803a72af63a0a9d7c7ec6ec9580b894a847ffa1520a3927f50989c5d1a6df0f5c649a9ac4f467e9988d93279cc0561f2034dbb0b967a2c6c8ab754d516e32c9
+https://streamflexsmm.in/Artl-Digital/ZEE_TV_HD.m3u8?_t=926ea1e9b4c632fc8d4337550d2e1470b16ffea171abee40778d35317410896f3284c0d310990a6c0f774d8faadb28e3c7b61d4393d3b4647f7f556da56f1051
 
 #EXTINF:-1 tvg-id="DD_CHANDANA" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LANDSCAPE_169_HD/image.png",DD Chandana
-https://streamflexsmm.in/Artl-Digital/DD_CHANDANA.m3u8?_t=af1d77c1b93b3e933abc86a298974135e49a48a759d80d99901699c5e9c2bbd5fa3d6a522735e39bece3256191badd5bdfe0dddacb921e5f67f4c0dc765f53d9
+https://streamflexsmm.in/Artl-Digital/DD_CHANDANA.m3u8?_t=55d202fbcc0fb76295fe42746118857b7584c039e9c29edc470920e7181108e34292526e2fe90c5591275619377f694ee33b3e8723e8497a0c3d7be1b60e1fbf
 
 #EXTINF:-1 tvg-id="UDAYA_MUSIC" group-title="StreamFlex-Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MUSIC/images/LANDSCAPE_169_HD/image.png",Udaya Music
-https://streamflexsmm.in/Artl-Digital/UDAYA_MUSIC.m3u8?_t=e1c7034410957dbd69c4d7f8659c0a97f601e6b6bff49b8f75ccdeb0f49b3206709af18bea29c6499fab084672a7f18cfc8e31815c402c07c1920ca9eaa3e4ce
+https://streamflexsmm.in/Artl-Digital/UDAYA_MUSIC.m3u8?_t=251b0dd5a4976a66c11282c787a32535c4625d627207db83d0b3821f0816ce001ab0161405cdae95b63b03f1f576bdfc2b220cc660a76f0c6f7022d78cb5d74f
 
 #EXTINF:-1 tvg-id="342" group-title="StreamFlex-Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RKANN_BoxCover-v2/RKANN_BoxCover.png",R Kannada
-https://streamflexsmm.in/Artl-Digital/342.m3u8?_t=5c42b43e4bb78ddc60e891d758039db5b05ce744facbcd75877bb34f81f1f8bd68cd05c4177d69eebbefd270ee4d8a9d7eec300dc79b46364d065e874d3288ca
+https://streamflexsmm.in/Artl-Digital/342.m3u8?_t=4ba110a76e505b6ddddda888866e44407279090e52ea839b0a8ec4b66be642c77d67f1774088c251e54f2071ab24c2423b0290476950cf3c4da744d0fcdfc29c
 
 #EXTINF:-1 tvg-id="PUBLIC_TV" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LANDSCAPE_169_HD/image.png",Public TV
-https://streamflexsmm.in/Artl-Digital/PUBLIC_TV.m3u8?_t=ab2084c2e4a158f2b93d374700dfbc7fb28e46fc989878355281c6561531c431e6e9f34342b791f8c11a81a6ccb1e30231cd79c4887e8356c15345557fea2cf2
+https://streamflexsmm.in/Artl-Digital/PUBLIC_TV.m3u8?_t=b28526849124a3b66431676a39119bf6438dde07f34a8a37c4026d2a321311deea528ee6ba38a8505e2e9ffc7970312f35dc11194fbc1ca41a72bd669bcd5247
 
 #EXTINF:-1 tvg-id="ZEE_KANNADA_HD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Kannada HD
-https://streamflexsmm.in/Artl-Digital/ZEE_KANNADA_HD.m3u8?_t=42432e6599ae62086fd9157c7cac7a6fb64a593b8c08ea16b93bbcdd788429101b830f32e4ee356322eb5136c2e468305226cb5d8bf0eed84e996b126b92d0db
+https://streamflexsmm.in/Artl-Digital/ZEE_KANNADA_HD.m3u8?_t=de28f2222d07d0ff1ad3788f0e6cd1af73f011d6c94f3d99f63fc6ec5ec34c2984d863f5480fefb2ed5a6db899e561084a5ebc3fce08d9e599621348c8cbd31e
 
 #EXTINF:-1 tvg-id="COLORS_MARATHI_HD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Colors Marathi HD
-https://streamflexsmm.in/Artl-Digital/COLORS_MARATHI_HD.m3u8?_t=2496f744bed672d1f9e16552f06177cc00f083cbc4d34a3835e947238c411e159cd281b32e33bb993646b249b40c0c303be21d18cc38aa9a941f147b5a000124
+https://streamflexsmm.in/Artl-Digital/COLORS_MARATHI_HD.m3u8?_t=661be6000374ebec46612044ee36f9b3847c936510c1ad27533ade2ac9e4b25d7a82e248a67da9c3d56869a9314bcb3b5647453b71ff34800a6279d571687329
 
 #EXTINF:-1 tvg-id="SANGEET_MARATHI" group-title="StreamFlex-Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LANDSCAPE_169_HD/image.png",Sangeet Marathi
-https://streamflexsmm.in/Artl-Digital/SANGEET_MARATHI.m3u8?_t=19e518cd0ccd2dc9a8636b2d01fc1c9f074c57bbb875409a298c3681be957110128d09dca012d99e96898cc01407c22a4f2d80a4904a775c03256aad69fb7db1
+https://streamflexsmm.in/Artl-Digital/SANGEET_MARATHI.m3u8?_t=ed1db3e2ca43f0c5314c3f83ca4525e188245aad7bfe26e3d618350af879b4e1efa970cf2838e0611fac42b96439fa249f0d66aecb186f30f20334bc82e3ab1d
 
 #EXTINF:-1 tvg-id="SONY_MARATHI" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony Marathi
-https://streamflexsmm.in/Artl-Digital/SONY_MARATHI.m3u8?_t=1f151f50a274aeee6514c2218a5249507e81e940dcd486399c0781116202889dcc436dc76bcd21d3a2312b34ab5473d63fcc25017dbeee3030888dff0a54e1da
+https://streamflexsmm.in/Artl-Digital/SONY_MARATHI.m3u8?_t=7e5c9b8d0f507d18a5d50c15145a6d1713d6a7638ee14eb7fe8b101ae1e940f5a2dbf1f176b685a6515332bdd206d2fefca7c27de461a985844b96789167d916
 
 #EXTINF:-1 tvg-id="SONY_8" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY AATH
-https://streamflexsmm.in/Artl-Digital/SONY_8.m3u8?_t=72f3fe2a70e7cf0f651260196aa8a245474fa43e900d70976cf69e68f60b83143f82e98d3c52df7a4e9d51584235839275ec10540abf834efaaf8d171354b2b3
+https://streamflexsmm.in/Artl-Digital/SONY_8.m3u8?_t=fa40819e8a279b7a6d6a40259384e61ae741d430c892e9a80e85b3ecedc84cddc33d1f103b8d3acf33f4b088b14d537b93ec3e223e6309a00609d7f60c011b8c
 
 #EXTINF:-1 tvg-id="SUN_MARATHI_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD/images/LANDSCAPE_169_HD/image.png",Sun Marathi HD
-https://streamflexsmm.in/Artl-Digital/SUN_MARATHI_HD.m3u8?_t=6d7a65ddc513dc60d4d7f389d8cb33024f63cf81ac9a64ab2b6a00196d003d2960ac19a033e08fc5a4194d5a40b9ba46d43337d231c76a7cdc65475a1fa83a7e
+https://streamflexsmm.in/Artl-Digital/SUN_MARATHI_HD.m3u8?_t=82f41bbb31692ca108e214620633582677d217352c96d69874df3a3f99d5ef65ec57a2a5eba299626d5c96301377f8d0d5f7c3bc788d847c1833d2bdf723b8d2
 
 #EXTINF:-1 tvg-id="ZEE_MARATHI_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Marathi HD
-https://streamflexsmm.in/Artl-Digital/ZEE_MARATHI_HD.m3u8?_t=4497397d7141547cac443aa0d663bee4b564bd729da38d4de0d8597339038c3ae01b4bbbb7b91d9bdf12a80a5a56625d05736f482a13a85c766770d5f30da8b9
+https://streamflexsmm.in/Artl-Digital/ZEE_MARATHI_HD.m3u8?_t=0b008bf5fb2731f7f388e9b9e38d839d176f501e42fb98777e942762ae77270b1de30f4510ec0af58bd21db3ffa8dfccbfa975438192c2f7ab6bbb9827970d88
 
 #EXTINF:-1 tvg-id="ZEE_TALKIES_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Talkies HD
-https://streamflexsmm.in/Artl-Digital/ZEE_TALKIES_HD.m3u8?_t=eec61d37e4e6bb729533216eb5e4d872399570b81c73efd655865f1c3f3662a28ae3b0cc1853f292e78934f38771268c5075f3081480c7b4110dd0ac8aa801f4
+https://streamflexsmm.in/Artl-Digital/ZEE_TALKIES_HD.m3u8?_t=e7d45125a8b613357d47da5ccd3e215ba7afeec31c8f8aa010f6351d426f341377467619e478ed9b65e141b8be01ed2b47866600bdfa86fd3e5beb2c70e24613
 
 #EXTINF:-1 tvg-id="DD_SAHYADRI" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAHYADRI/images/LANDSCAPE_169_HD/image.png",DD Sahyadri
-https://streamflexsmm.in/Artl-Digital/DD_SAHYADRI.m3u8?_t=007904044e19c16b754cfb6c351b7fced80414d88b988ecb48f688c30b14f9f08e4e55fe6bd9a26ffde2e5c3ca1b16b4e11f481c6f33b9537a3c5cb169d194fc
+https://streamflexsmm.in/Artl-Digital/DD_SAHYADRI.m3u8?_t=62a873b3778690663ab32cabf61bb045eabc3958126f451f5448e9a08dad808904a7f5683d4bf0fcc7cc0662a7c4f5058a4e34c4b7908c8c87aad7acb5420c5f
 
 #EXTINF:-1 tvg-id="ZEE_24_TAAS" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_TAAS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee 24 Taas
-https://streamflexsmm.in/Artl-Digital/ZEE_24_TAAS.m3u8?_t=0450956246bf3fe06d56cc5c1f41c68e47baf105b5288c62bbf7de87245e2b0b298b2d8bd546d64413e9636e409afc372dd682408f9a127774debbdbf45cfff2
+https://streamflexsmm.in/Artl-Digital/ZEE_24_TAAS.m3u8?_t=388fda931c49d73ec9c10e3662280d63deb775e7f50676047ab3ccb50eaf4812356f85ebd18cc2d206f53e83ff537908f0d3a25757630d4a9c6cce4c814e1b63
 
 #EXTINF:-1 tvg-id="TV9_MARATHI" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",TV9 Marathi
-https://streamflexsmm.in/Artl-Digital/TV9_MARATHI.m3u8?_t=66b9fd221fdd877c6b320fa47aad94d1e0efe90682c96506686817506e857bc11aa9edc115569e1a479d931bed52d0f3b93401135b58afa39894bea47382b282
+https://streamflexsmm.in/Artl-Digital/TV9_MARATHI.m3u8?_t=d0748fdf7da60a4ad5da902c129cf32699c827a0363e2dfd7854e4d0de31e7eee00e156757d0cb0a537804f00f5830306775e73b1e61ea8aee1ecb37a8e9ace4
 
 #EXTINF:-1 tvg-id="192" group-title="StreamFlex-Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-799-j5m7jg34-v2/imageContent-799-j5m7jg34-m2.jpg",Fakt Marathi
-https://streamflexsmm.in/Artl-Digital/192.m3u8?_t=701f16d22df3325fa73561d901ac52af30a7f10e150d8a3c362325ba094377cc0e997cd39d31ab954f6a9fde1872b89bb8a08eda7180ba5b562d666e800e9778
+https://streamflexsmm.in/Artl-Digital/192.m3u8?_t=d49187d4455c06e67262ae4f35539d2d04872732fd96a428f09a67b4dc3b093a5dbbced8885947eaa44e8d14a8911ce490013d47c1e6ac8158786ef79ca77920
 
 #EXTINF:-1 tvg-id="ABP_MAJHA" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ABP_MAJHA/images/LANDSCAPE_169_HD/image.png",ABP Majha
-https://streamflexsmm.in/Artl-Digital/ABP_MAJHA.m3u8?_t=bae37bf80e27c06e6a696baf875d19478712c58908aae5883568e7958a19c6d0282809bb44a813d3d1808b2ed88938d132ab9c076e2460c283040b557fffaea6
+https://streamflexsmm.in/Artl-Digital/ABP_MAJHA.m3u8?_t=da00501dd6ea883065f2b26b1861d020075612aa6b33818e801a9ce0acf992996a2218e95f43f938743549282f55d47d9b4bd79655cb27764fcac54a2e80587c
 
 #EXTINF:-1 tvg-id="CHARDIKLA_TIME_TV" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LANDSCAPE_169_HD/image.png",Chardikla Time TV
-https://streamflexsmm.in/Artl-Digital/CHARDIKLA_TIME_TV.m3u8?_t=bc0aef5dd2e0aab7f55aa97035092359f80c1a97e05369ef33f84fe89f3e57672b839e3f04a7d952acad3e96e978ef2f2b5dbe16ca1b85bbf00f04e14c557f5a
+https://streamflexsmm.in/Artl-Digital/CHARDIKLA_TIME_TV.m3u8?_t=092998631224767005475416629468512ee31fd1a2b8a3bc5ab2a6bb6057505d05e76e2e0da56cfe595cc9bd51e85084854e928865bf88f36b52c139fe4a8dc1
 
 #EXTINF:-1 tvg-id="CHARDIKLA_TIME_TV" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LANDSCAPE_169_HD/image.png",Chardikla Time TV
-https://streamflexsmm.in/Artl-Digital/CHARDIKLA_TIME_TV.m3u8?_t=bc0aef5dd2e0aab7f55aa97035092359f80c1a97e05369ef33f84fe89f3e57672b839e3f04a7d952acad3e96e978ef2f2b5dbe16ca1b85bbf00f04e14c557f5a
+https://streamflexsmm.in/Artl-Digital/CHARDIKLA_TIME_TV.m3u8?_t=092998631224767005475416629468512ee31fd1a2b8a3bc5ab2a6bb6057505d05e76e2e0da56cfe595cc9bd51e85084854e928865bf88f36b52c139fe4a8dc1
 
 #EXTINF:-1 tvg-id="DD_PUNJABI" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_PUNJABI/images/LANDSCAPE_169_HD/image.png",DD Punjabi
-https://streamflexsmm.in/Artl-Digital/DD_PUNJABI.m3u8?_t=355366b38e823f34093f2e4a6e40b5d73b11ad78075a157921aca33f843ccddd3318797b1cdf7ef8200e237eb4299a451434c7e251c7eef5889d6ea854587a2e
+https://streamflexsmm.in/Artl-Digital/DD_PUNJABI.m3u8?_t=8aff92c7cc4fec097736c3fbcae6e09a9b52ba843bdb7e177da0ad5a40d87427b42369dddf56ea27214ee322c458d49bffb70c3685cafc732581c180b75353d9
 
 #EXTINF:-1 tvg-id="791" group-title="StreamFlex-Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48802-k4m7nz2w-v1/imageContent-48802-k4m7nz2w-m1.jpg",Fateh TV
-https://streamflexsmm.in/Artl-Digital/791.m3u8?_t=7cd0007af81f929af6e081c9e33b28acc6ff21727b5280d6711d73336f3dabce28ab316e15aa3b7a511f702e9a037c574b7d73c4b9ededc8b4d6a76f72c04e4a
+https://streamflexsmm.in/Artl-Digital/791.m3u8?_t=10157c68013f881d05cdc825df987c72b4eda59356b46dbcd434ec2148e05eeeb30f8cb1514160b4d40992c786b2ca54496f41b098de56ae5405b077fbdd50d1
 
 #EXTINF:-1 tvg-id="366" group-title="StreamFlex-Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INWPUB_BoxCover-v2/INWPUB_BoxCover.png",India News Punjab
-https://streamflexsmm.in/Artl-Digital/366.m3u8?_t=fb830ef850cbc76edda0f0b9ec8f5c8c9f75c6c2cc34d4d2cfef229c6a830b8376f6fe050fe45b34feb8df5a066ad69c6fbed693f4b348f9edec51ad408e4cd7
+https://streamflexsmm.in/Artl-Digital/366.m3u8?_t=a8358500f771d6b90c6a935be2587eb82dda28fa70ca6669175bb43eafcd44079034758d9921fc0faecc04159a5626c2678e776fa53b98b9e81e992fa6dd0911
 
 #EXTINF:-1 tvg-id="NDTV_INDIA" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",NDTV India
-https://streamflexsmm.in/Artl-Digital/NDTV_INDIA.m3u8?_t=8bb7725cbb5feda6cba566e12e24a4827edd229503d7f9cd43c0615da44411df5ced5a2de3a75ae5b9ccf147e7db17ea9b6430426a91a893465d1018b79fae90
+https://streamflexsmm.in/Artl-Digital/NDTV_INDIA.m3u8?_t=6b249433efecf5bdf8226c21cd95d0876b007494fcbabc647cf3b190bf20bd00283feda27263eca4b117d286360db81ce540c7cdba2e7e9e1e2759430174822b
 
 #EXTINF:-1 tvg-id="1060" group-title="StreamFlex-News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/LIVPU_BoxCover-v1/LIVPU_BoxCover.jpg",Live Punjabi
-https://streamflexsmm.in/Artl-Digital/1060.m3u8?_t=dd4d99c93e24dbce0a75b52bcafcdb213667adc88fd508a9fd248184efbdae88c419258d59f567b17e292938b724cf68ba8c3c2b927aa97312c6ffc8e18f9079
+https://streamflexsmm.in/Artl-Digital/1060.m3u8?_t=d4b6ba2f45dbc5a3625531f342e50af0041d8c3b5e52a16a2cedb3123d6196388f7da8caf1b583b9f7c20b657176c3f82dd1f2477b7f3b9095992a5209d3b3bf
 
 #EXTINF:-1 tvg-id="LIVING_INDIA_NEWS" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LIVING_INDIA_NEWS/images/LANDSCAPE_169_HD/image.png",Living India News
-https://streamflexsmm.in/Artl-Digital/LIVING_INDIA_NEWS.m3u8?_t=b161b4c92431c4258eb56aa855e879bcf088770e6f0a2deb5cc9cb3b24e8df32dfcacd64b285da0645fd3452c3fd762d21679b9c90e513d6ca537441bf6c46b2
+https://streamflexsmm.in/Artl-Digital/LIVING_INDIA_NEWS.m3u8?_t=4036f2fe58175b42f93e226183c85812351e77effd142bb80d8669c594b2a556a383918477329939befdc42795d621cfe185efb6a75f21142436f3d47b93b005
 
 #EXTINF:-1 tvg-id="FM_NEWS" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FM_NEWS/images/LANDSCAPE_169_HD/image.png",FM NEWS
-https://streamflexsmm.in/Artl-Digital/FM_NEWS.m3u8?_t=046831344f3b4e06c1183d6e4d39bbbcac5c6a97ec560eae8cd40c819a13e727e51d6aec0b2ca032c78247f081c22c85df263ba9015028d7cd0a8f99269426da
+https://streamflexsmm.in/Artl-Digital/FM_NEWS.m3u8?_t=a21067dd0dc6b25e9b2fd99ce4bbd7853b6e9290b1df2e874086bbb22459fb461df904a70ebcb15a125208591c25d2b48cfc1c9252dfb37c3644043788f2546e
 
 #EXTINF:-1 tvg-id="MH_ONE_SHRADDHA" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA/images/LANDSCAPE_169_HD/image.png",MH One Shraddha
-https://streamflexsmm.in/Artl-Digital/MH_ONE_SHRADDHA.m3u8?_t=cba48a5228f4eda930773e6f84c81c9b9a96725a40726eac4f31c0b772d226fbe316c00c55e8fd08ccb0b26e2edbae30aabbaec895879bc2fff4f75289143472
+https://streamflexsmm.in/Artl-Digital/MH_ONE_SHRADDHA.m3u8?_t=008ba3bc77bd9c44f5c7fe4ae1559685c8eb55cdb29adcc9fc8f27f531bfc0a4f3eddcfb33307bc7a5e88b6fe7590972f726aed9478b51f6448250a3ee62570a
 
 #EXTINF:-1 tvg-id="NEWS18_PUNJAB_HARYANA" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",News18 Punjab Haryana
-https://streamflexsmm.in/Artl-Digital/NEWS18_PUNJAB_HARYANA.m3u8?_t=10b514c18134991f91fe88ada2de33d7ae5cc037a56ba69b4560ff76378909b13e5b0a1a97ea4522766121e8aee644d42cc132521457810166016b33621fdcd2
+https://streamflexsmm.in/Artl-Digital/NEWS18_PUNJAB_HARYANA.m3u8?_t=9155d0c51e7f99e9db5877c8f74f0bd0873df8dd0076d0263610c002894079578ccb6f3d138d9c778573451d8d451c9adb80fa31fd990736502230683fbcd6fb
 
 #EXTINF:-1 tvg-id="PITAARA" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LANDSCAPE_169_HD/image.png",Pitaara
-https://streamflexsmm.in/Artl-Digital/PITAARA.m3u8?_t=59565ef3793be3ec49a7f37839f777826393113040e67a587953fdef04e029818b56b5ab01508ef9cd8ee1787aabd3ac3f73de25e43bc752219c49e294b36305
+https://streamflexsmm.in/Artl-Digital/PITAARA.m3u8?_t=e5bd5cf3bc7945b6a6f968828a048fa73fd9115efc51516d0b5214cd76dd62a73fde625cc4d52584c025fd9ddbe7721ea71fe75c540da7234f2381dee8e5acb4
 
 #EXTINF:-1 tvg-id="PTC_CHAKDE" group-title="StreamFlex-Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LANDSCAPE_169_HD/image.png",PTC Chakde
-https://streamflexsmm.in/Artl-Digital/PTC_CHAKDE.m3u8?_t=9ca23f34b4d2d680af81d2521f0407361484e4328d9687a06b3c18044448adeebd85b9dc1e583141accf16b3cbc18f9cec257d7958f6739a9f0262536a1d4461
+https://streamflexsmm.in/Artl-Digital/PTC_CHAKDE.m3u8?_t=f28968749a41e318d1364c018e51458e4ad2be3089471c2ae6c814a4205caff8781f22ea807cd9da66c58c5ff5618244137b229ce19aeff6bcbb62890ca27979
 
 #EXTINF:-1 tvg-id="PTC_NEWS" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LANDSCAPE_169_HD/image.png",PTC News
-https://streamflexsmm.in/Artl-Digital/PTC_NEWS.m3u8?_t=307a930274d238d959f3c54291f103a761a3985323500ea35b543511e38ed3d83eec40ca5bfc270a8301adab6868c78f22d11bb1ee41712828d12dbb5428f348
+https://streamflexsmm.in/Artl-Digital/PTC_NEWS.m3u8?_t=88722e20b6b21906821a578e4d0c5d48024831e6103eb5bb3b413c6440dd3c382b1ffa32c73ab8989c93eb4452f9abf1076b36382a7b979082db7aec06a79ca4
 
 #EXTINF:-1 tvg-id="PTC_PUNJABI" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LANDSCAPE_169_HD/image.png",PTC Punjabi
-https://streamflexsmm.in/Artl-Digital/PTC_PUNJABI.m3u8?_t=5e91f92bc9ef8d2c74f32c8558c63971f3b5fad96fe63b19a1c969169bf7b44ebadcee5381731a435b46b6982e657b1b6e37e5e6f35065836ee5908b4a2cfc04
+https://streamflexsmm.in/Artl-Digital/PTC_PUNJABI.m3u8?_t=f92278b470bac9ff802ca71fbd93eaed99d7e50bb03a4a45bd68bdfc96d4f0bfa8109de06fc32b1d4ac08a700f6b07f41cfa9121842f1a73731e4478f4f9d803
 
 #EXTINF:-1 tvg-id="PTC_PUNJABI" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LANDSCAPE_169_HD/image.png",PTC Punjabi
-https://streamflexsmm.in/Artl-Digital/PTC_PUNJABI.m3u8?_t=5e91f92bc9ef8d2c74f32c8558c63971f3b5fad96fe63b19a1c969169bf7b44ebadcee5381731a435b46b6982e657b1b6e37e5e6f35065836ee5908b4a2cfc04
+https://streamflexsmm.in/Artl-Digital/PTC_PUNJABI.m3u8?_t=f92278b470bac9ff802ca71fbd93eaed99d7e50bb03a4a45bd68bdfc96d4f0bfa8109de06fc32b1d4ac08a700f6b07f41cfa9121842f1a73731e4478f4f9d803
 
 #EXTINF:-1 tvg-id="PTC_SIMRAN" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LANDSCAPE_169_HD/image.png",PTC Simran
-https://streamflexsmm.in/Artl-Digital/PTC_SIMRAN.m3u8?_t=5edc4d71c7217244fffd08d4d3426946081363cffccbefa2a9a90a085b114eb1c9f8edfaa02990393a6f87e004f50a502fc2338cc5e613e85fa7ebec206cae83
+https://streamflexsmm.in/Artl-Digital/PTC_SIMRAN.m3u8?_t=54807916b6b3be67bbb7163ebe224526f1e54dfbfd28732959f883a252b95af66cebee15f661255aec65e55ed90e2a3e4a8ee28d53efdc9d9492fede7423119e
 
 #EXTINF:-1 tvg-id="571" group-title="StreamFlex-Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-68738-kywk7u6g-v1/imageContent-68738-kywk7u6g-m1.png",Tata Play Punjab De Rang
-https://streamflexsmm.in/Artl-Digital/571.m3u8?_t=ffe06f35acc92cc75c7d083e44f92c9370d8e700ab3cc7264d56ce82ef9db6e52b4feb36755c16b0fac371c98eefb31dadd072bcd69aa6a46fc4a27a4e84802a
+https://streamflexsmm.in/Artl-Digital/571.m3u8?_t=44d840fd3283375bd56bed182c344f1d832c4c5a541e5bcd3ef2708269c919c7c0acc1608d98ac1b3e34b894b28dd1d5aa54127327b19ae106fb9d4ad11020e5
 
 #EXTINF:-1 tvg-id="ZEE_PUNJAB_HARYANA_HIMACHAL" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Punjab Haryana Himachal
-https://streamflexsmm.in/Artl-Digital/ZEE_PUNJAB_HARYANA_HIMACHAL.m3u8?_t=7ed0e35beea8f8c9d56f2416bd38454e2d4b2f0914870798dbe4f7a6711864190cf5deaf83a2df1dc36ec7b1640078261ce0f787ea7c4cc8c4f2268edc2f2513
+https://streamflexsmm.in/Artl-Digital/ZEE_PUNJAB_HARYANA_HIMACHAL.m3u8?_t=81ce215bb891c0de16716e489a2058d2fca762cdcb46084328daaa97d393ed50a523d3453eb28da8c8c86c26a6dae46358204893692c15794ec04013cf4b61ef
 
 #EXTINF:-1 tvg-id="ZEE_PUNJABI" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Punjabi
-https://streamflexsmm.in/Artl-Digital/ZEE_PUNJABI.m3u8?_t=3c02749f8cca5e0865cd959966e6e96e347bbf384860c2226591876c7b63d233c6534d7b240911fc24d183876de01d521ac051f4518d618d441572adc06d7a9f
+https://streamflexsmm.in/Artl-Digital/ZEE_PUNJABI.m3u8?_t=a8d281d26743f5f8eaeec88103474cef7aa873c2ad17cae0d4b3b76aa2482e79110dc6a797f9fc0b3ef6bc5879bbdc13188b8a21ee8b9476e0cf20843c74e3b2
 
 #EXTINF:-1 tvg-id="PERMAN_kid" group-title="StreamFlex-Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ40BGblxkPEXTTm9ei2y2TLok6LsxuyO4_AQ&s",PERMAN HINDI
-https://streamflexsmm.in/Artl-Digital/PERMAN_kid.m3u8?_t=be43fea717d837adb3789989cf69e98c4afc713465b57c17188629a6bd70be3296fb1371225d1bfe8d6d46447d33908883af311fca321c50ec97992eb7fee0b6
+https://streamflexsmm.in/Artl-Digital/PERMAN_kid.m3u8?_t=e423fa76f3a3e9192f7ca39edace063e34a3313746710f52bfed6c554fb98d319c06ca0e463cbd1ef648ab8ba2dafa29bf0a837f114021e03e1e02a5e1800322
 
 #EXTINF:-1 tvg-id="MASHA_AND_BEAR_kid" group-title="StreamFlex-Kids" tvg-logo="https://play-lh.googleusercontent.com/x-0xi5j42U7XuvyoPQBTSjGjA_a8yA_nkgqlgm0VjykuzySBBP9kczwh0YpCRU_x51o=w526-h296-rw",MASHA AND BEAR
-https://streamflexsmm.in/Artl-Digital/MASHA_AND_BEAR_kid.m3u8?_t=9f7f0a408ab2baae46ce5a1e7cfce540f9427afaed20f879a1f3e196fe0c18c4a8720307c1867033554d05d8cef384ad2c0da549c6072d033c0c102a5d23fb3f
+https://streamflexsmm.in/Artl-Digital/MASHA_AND_BEAR_kid.m3u8?_t=c1ff395d198362253e142669d4c08a9589712270417f713a2351c19e51975cc511930c39549db606283296fd18f6b838f05f1cb3e761f0b5517da83dab307834
 
 #EXTINF:-1 tvg-id="NINJA_HATTORI_kid" group-title="StreamFlex-Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYvUxQgr_Mr_lGGrYbMWNG2Becq-_iCqnJg&s",NINJA HATTORI RETURNS HINDI
-https://streamflexsmm.in/Artl-Digital/NINJA_HATTORI_kid.m3u8?_t=9db5aff9c14b81e8a79c2afc618c17a50f406d17545c5736bda77d3abe789b06455b071092b9081e027b2151e2bc8147ae079ff9b39f7b1cb3626cee254a5da6
+https://streamflexsmm.in/Artl-Digital/NINJA_HATTORI_kid.m3u8?_t=ea75ad6f9f1cf16b605ba5da9b49135337c3f63a3efce451fd338e5cf77b7bbb7e1b545cfcea19450a2ec775a1ab6429407d7b5c602ce05cbc7a2e8ae420a5fb
 
 #EXTINF:-1 tvg-id="NINJA_kid" group-title="StreamFlex-Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYvUxQgr_Mr_lGGrYbMWNG2Becq-_iCqnJg&s",NINJA HATTORI HINDI
-https://streamflexsmm.in/Artl-Digital/NINJA_kid.m3u8?_t=7923ce1770472a646512c63789ae87e6054ce8664451072971e3bd27a1509602a80208d696975b35e9405d5e33dc3a1e13b5b8f8cab447610e681c52aed3938d
+https://streamflexsmm.in/Artl-Digital/NINJA_kid.m3u8?_t=6c71bffea20d29a2272d8aeb591efb04ea9481db5aa5d417f04a0e0a8e1ee662cf5fc53075ddf50770863a757eabe12a0e1c421a302b0f28adca833fac249a39
 
 #EXTINF:-1 tvg-id="SHINCHAN_kid" group-title="StreamFlex-Kids" tvg-logo="https://www.partysuppliesindia.com/cdn/shop/products/A1_39_cdd62d5e-1c73-4b7d-a9a6-afa5cf22a7e5.jpg",SHINCHAN HINDI
-https://streamflexsmm.in/Artl-Digital/SHINCHAN_kid.m3u8?_t=501a6991518893cd94fea3392911111271d9a85ad1e97d0eaefd9be72e27749d1a98c4c6acf946c034cf6f0baf4b741a5b432ef7fb2eafa780497177370abeaf
+https://streamflexsmm.in/Artl-Digital/SHINCHAN_kid.m3u8?_t=dced74976017961b81d0b211c62863f0c209f701913c43ed551010e4d77a946272b26b6d82c76d799ee4139b1311339c248c4e221e3285bfdc83b8df5568352a
 
 #EXTINF:-1 tvg-id="DORAEMON_kid" group-title="StreamFlex-Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJSPyLeBXQstZ_EwDIxE_QmD-i3yLK-5FBg&s",DORAEMON HINDI
-https://streamflexsmm.in/Artl-Digital/DORAEMON_kid.m3u8?_t=3922ff9a082b4dfdc96272a18cbb7ee3b6144e49ba0779dc9ab393baaf4791e2f50dc3f7fdfc21fa84cb892de72a33cb95c989d447f96f344ba7516b46e7c94e
+https://streamflexsmm.in/Artl-Digital/DORAEMON_kid.m3u8?_t=8835f41ad1d0417082eb6c91851492f1c795a859a457cfa53727f26da56e9aa6af10c341f72b1a5ab278d18772de9d84d7000b9d6dce418160c5a35ba498a596
 
 #EXTINF:-1 tvg-id="CVR_NEWS" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CVR_NEWS/images/LANDSCAPE_169_HD/image.png",CVR NEWS1
-https://streamflexsmm.in/Artl-Digital/CVR_NEWS.m3u8?_t=45c5aa4c5946ab55b9a109959ac61ac3fe35a8b952559ab1250198b2d0b81378f24e5e6db21e510a2a8c25b6bcd26b11f57ebf71bf8975d96ca0c3fe50a86c58
+https://streamflexsmm.in/Artl-Digital/CVR_NEWS.m3u8?_t=5952902ca2a34e8fe0a4b81f29c6bec7b9cdc10ac0f54e5391dc3789c64f35c21d750be431a732538333af913c9818fd9f51df998d23fa46fdb0f0a64722bfbf
 
 #EXTINF:-1 tvg-id="BHAKTI_TV" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHAKTI_TV/images/LANDSCAPE_169_HD/image.png",Bhakti TV
-https://streamflexsmm.in/Artl-Digital/BHAKTI_TV.m3u8?_t=2edf0e86ea335b8802f1962332c40707a63aa9d2351f7925684f8f32068999e79eb258bb4f8553c553463207b36698d39d6e44536d091421cabaafef73660c26
+https://streamflexsmm.in/Artl-Digital/BHAKTI_TV.m3u8?_t=f752b4e591377d15880a573224023c6b6fc9522fa24a3ce8b8a15fef03ccf39ed2afdf5feab85f0d96edb8a2b3cd24a4db0d3e1820fde99a4dd10bb70869e662
 
 #EXTINF:-1 tvg-id="ETV_CINEMA" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LANDSCAPE_169_HD/image.png",ETV Cinema
-https://streamflexsmm.in/Artl-Digital/ETV_CINEMA.m3u8?_t=b93a79cd21efc45d8ee466e1800a3e5cecf77bf751c85b8d7b6c8e8f830491f64f2520390ef0e250221e64693bea7a95e49970e5be56f636c796b86a5ff36ed0
+https://streamflexsmm.in/Artl-Digital/ETV_CINEMA.m3u8?_t=fa01dafa314722ed6fc3fe645afab3bcdfa82e16f1f64a25e9db4d9f860d0a861ca4fa1f783ae7053613fd1f345b2954882953038ac282ea7e92e019d449424b
 
 #EXTINF:-1 tvg-id="ETV_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LANDSCAPE_169_HD/image.png",ETV HD
-https://streamflexsmm.in/Artl-Digital/ETV_HD.m3u8?_t=5e98ce329b46564457e6bee234604c970edfd7ad84c9151a16c96408704ce7879e9c2c87c33b51847d60450a5539dab573b5d8419299950e3f568550c64feb37
+https://streamflexsmm.in/Artl-Digital/ETV_HD.m3u8?_t=2839541eeaa5a68d9a766c4ebc109631c59e041981f8b335ec2438c3d5627f249906f6b00097f4f45fa0bed361d13e7887e424a9e738bf77b338a6ff6211a591
 
 #EXTINF:-1 tvg-id="GEMINI_TV_HD" group-title="StreamFlex-Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Gemini TV HD
-https://streamflexsmm.in/Artl-Digital/GEMINI_TV_HD.m3u8?_t=d45de69717080b2e582636c982255569cb4973691cb90c175af19571d7b924084ec232fbebd141aae4bfe8cab8a6cc73b88c19248d0eb68ddd4f4d2aff08fa05
+https://streamflexsmm.in/Artl-Digital/GEMINI_TV_HD.m3u8?_t=6919a9f3d0540ca75d090b8be01a9110a97f2d5bea452d677e9b0d6ab4c3d415addaa4e1699932b1cfb2755bf34b325d000db612c3137000a381a763fb877e67
 
 #EXTINF:-1 tvg-id="GEMINI_MOVIES_HD" group-title="StreamFlex-Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Gemini Movies HD
-https://streamflexsmm.in/Artl-Digital/GEMINI_MOVIES_HD.m3u8?_t=2921fe047d41888e25532eb2706d053d55434011a44d9fa0c2797d6813fdffb03cc5e00d6cf00aae4687e582f2072bb2265310a707517e70d8dde8c8d964622d
+https://streamflexsmm.in/Artl-Digital/GEMINI_MOVIES_HD.m3u8?_t=4456c224a37f293eb9dadd471c71e518ff14396d9cbfccb693b3bc39489812fcd2601c963f0ec6abd9a4f475512ca3bd6355399268f9d4953439e1498ff7dd35
 
 #EXTINF:-1 tvg-id="GEMINI_COMEDY" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_COMEDY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Gemini Comedy
-https://streamflexsmm.in/Artl-Digital/GEMINI_COMEDY.m3u8?_t=9948cb3c5cbbfe68ced6d3369b4842c0b9c2cee17688ca08a434fdff082e05aa1846d33b8bdf06ef4d42ffe324acc69af97e27379392a84e1c2e9cd6420ef323
+https://streamflexsmm.in/Artl-Digital/GEMINI_COMEDY.m3u8?_t=bd0b750989bd4e9edd52ac2173f0befad6af3c45ef5647ac03c9e3b5a69297d10f20557ca5404fe84868359f238b660b6e4adc3605f893bc60b3aa5e42eaafd8
 
 #EXTINF:-1 tvg-id="STAR_MAA_MOVIES_HD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Maa Movies HD
-https://streamflexsmm.in/Artl-Digital/STAR_MAA_MOVIES_HD.m3u8?_t=4b9210052954475df37b3e5ff42bcf32027736b9b7061d94f924ea200b6f1b4046cb2ee90eeacbed7153c4865e9a2aecf3f81abde43a9bfe1bb7cec84b9b9174
+https://streamflexsmm.in/Artl-Digital/STAR_MAA_MOVIES_HD.m3u8?_t=f2a395ca5316e40b4b66b94f8adc3358e87116032a3fd28b8eb9bf9100ad62d077d0dbb4e4b27dba7da34a161f846780176410395c6786729bc30e8adcd6cb35
 
 #EXTINF:-1 tvg-id="RAJ_MUSIX_TELUGU" group-title="StreamFlex-Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LANDSCAPE_169_HD/image.png",Raj Musix Telugu
-https://streamflexsmm.in/Artl-Digital/RAJ_MUSIX_TELUGU.m3u8?_t=1c632023a9692297c05d98567727f3f0aaf278baa72049d34613d472750073dec815166ab963ce670581cfcde8c3fcb6ef499951f0e1a3f5e29b3fa801dd10c2
+https://streamflexsmm.in/Artl-Digital/RAJ_MUSIX_TELUGU.m3u8?_t=97064046cc3ea1eeaae307dc9209f356e2467c2709d2f575b90c73e3704d0cc820634097fe28b274d6a73988ca9c8ddd24f83b1e1f383f0c753bba643badb8ec
 
 #EXTINF:-1 tvg-id="RAJ_NEWS_TELUGU" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU/images/LANDSCAPE_169_HD/image.png",Raj News Telugu
-https://streamflexsmm.in/Artl-Digital/RAJ_NEWS_TELUGU.m3u8?_t=15e3fc23e956f5961e53998d42a8625b3cdb0ba32e3e9f9841ac7068a293718f2ccefbc3a54c12c67373516c145a7d7401d890ddf31db74505f8ce4e48987cea
+https://streamflexsmm.in/Artl-Digital/RAJ_NEWS_TELUGU.m3u8?_t=d147e54d39ab16f41ca0a59c312de77d9432db6a73b934488f5da40b0fa63c5bcb5a5fab9fab7109e5fbee31a3856d696ae45ea473473385070406e57aef9a9f
 
 #EXTINF:-1 tvg-id="SONY_BBC_EARTH_HD" group-title="StreamFlex-Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony BBC earth HD
-https://streamflexsmm.in/Artl-Digital/SONY_BBC_EARTH_HD.m3u8?_t=174a37d50d17847131cb99f301ce5cd6e8c9520e9180dffd19109bc69052c410f6bf51e141753b81fcea2ccd198f0b14643d14717ddf54dc155cabd2588541ca
+https://streamflexsmm.in/Artl-Digital/SONY_BBC_EARTH_HD.m3u8?_t=0ebf58438897ee61c2befd859b3a9be70fd5f9c291985044010e89303c6045387ed710330509cff4b78fa242072eb00a7d6f73cf65018a1f381cd4d439acf29f
 
 #EXTINF:-1 tvg-id="ANIMAL_PLANET_HD" group-title="StreamFlex-Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET_WORLD_HD/images/LOGO_HD/image.png",Animal Planet HD
-https://streamflexsmm.in/Artl-Digital/ANIMAL_PLANET_HD.m3u8?_t=c1bbe1418dff3931eb8eeaebad28eadd7c4d59b2bf81ae7684a8b1a0e24f090d87487822c5d5f2aa6ea6195d77b59ce65b0e1ce2a421c8b71fc6eac6c12f756a
+https://streamflexsmm.in/Artl-Digital/ANIMAL_PLANET_HD.m3u8?_t=db817ddb25f88d51e8ca662cd866eb2850770968122667697ea6ddd7a53d406883131ec3ed61daf47e38b64b99b8e00f639f7cfe06ebc278b3c605d915c028a3
 
 #EXTINF:-1 tvg-id="STAR_MAA_GOLD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_GOLD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",STAR MAA GOLD
-https://streamflexsmm.in/Artl-Digital/STAR_MAA_GOLD.m3u8?_t=d811ff788ba06c96d59bf19730fcdb9ee87a0b31adc2fa0948ba366f97fea1bc9259b879cedf792b23fddfb5fe74d6c1854b970dd105320d0ed1034b28a027a6
+https://streamflexsmm.in/Artl-Digital/STAR_MAA_GOLD.m3u8?_t=826570c14788c3c27f80e8e63b050901be8e00eba22c64f3659a9509fe970a4276a1c860ea5cce70c1e72b499dd5203c11b372542421cca7f4c36a8d460445b3
 
 #EXTINF:-1 tvg-id="STAR_MAA_HD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_HD/images/LANDSCAPE_169_HD/image.png",Star MAA HD
-https://streamflexsmm.in/Artl-Digital/STAR_MAA_HD.m3u8?_t=4a1d6eea43618f0d756e873e1e29d54c1f3a623f5260c7b7b4b2e3f28712af4435c8ddfa5fe6a6ad3d298564881d7d7b76732f582eea7e26c7bb5f35454a17f9
+https://streamflexsmm.in/Artl-Digital/STAR_MAA_HD.m3u8?_t=23eacf542623cb5ca209ed63d978450a5d7968954cb161b76b1c67646a1070fb0534a768ee96e85c74302ee3d9066fe272acb5942c53d1582f5d388a46cd8268
 
 #EXTINF:-1 tvg-id="497" group-title="StreamFlex-Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11910-j9l58n8w-v2/imageContent-11910-j9l58n8w-m5.jpg",VTV News
-https://streamflexsmm.in/Artl-Digital/497.m3u8?_t=b0684312c9485376aad5e2a3faed532043e958db5313a815a8d0b6dc216715203acaab005e5ac68f8e9deaf2a4b43c5026297aaed8e95eb587750a29020cb2ef
+https://streamflexsmm.in/Artl-Digital/497.m3u8?_t=089f9b015cc23fd446bfe2e9e485a7e158dcba33d772a08ab95b8add3f64c84e950a91630b97f8c25af3648bb8e0f1b03a6845ede4050dbd3f58447f58de84ca
 
 #EXTINF:-1 tvg-id="V6_NEWS" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_V6_NEWS/images/LANDSCAPE_169_HD/image.png",V6 NEWS
-https://streamflexsmm.in/Artl-Digital/V6_NEWS.m3u8?_t=e4f2cc51742624dfa657dc675556e4a577100af34b893242dfa68ec429ad35f7c6d2d7463d0c90dd82b27b1c9713a8a22dd6957d78620600e83afcf419cdacf6
+https://streamflexsmm.in/Artl-Digital/V6_NEWS.m3u8?_t=0ee15150731b31f18a4bd2f47ce55928fc30461632c6a05ddbb0e79ccb420eecc721d123a97c3c1cd445382d8e2f411280bdd6c9ef76ea3ce663e0316913bccf
 
 #EXTINF:-1 tvg-id="ETV_PLUS" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",ETV PLUS
-https://streamflexsmm.in/Artl-Digital/ETV_PLUS.m3u8?_t=758898f2b7c0afff6f694784834cadceac1c08c81609640b120af6ffe974d9d5309b2bac84050b0b3fb620a52f88760ad103e5479d8c708e19a3fac0ac1a7c87
+https://streamflexsmm.in/Artl-Digital/ETV_PLUS.m3u8?_t=49c734f131792eb7f3e51ca889fc693e3599d9326816de69b167dd30db10f7afaf59a7ab1a15559a145580d974a2522bf2a53250cfba41f8d9f28430bd1b397e
 
 #EXTINF:-1 tvg-id="ZEE_CINEMALU_HD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Cinemalu HD
-https://streamflexsmm.in/Artl-Digital/ZEE_CINEMALU_HD.m3u8?_t=72d9e7630cd34186cb167cd98804b1837208935b9895d33bacc0e04291874a76b29d40b07238a22675124ea320816c0c60dbede42e3bd4f1c5fa53d1045c519d
+https://streamflexsmm.in/Artl-Digital/ZEE_CINEMALU_HD.m3u8?_t=15e1ff02ff1308f388b104fe6a362e430779daa5800947df96823bbdac581c1a7e40b476d88a9f8605fd010c72605bba852c530707c65bfa2ecaca313d038755
 
 #EXTINF:-1 tvg-id="ZEE_TELUGU_HD" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Telugu HD
-https://streamflexsmm.in/Artl-Digital/ZEE_TELUGU_HD.m3u8?_t=b0c884675fa64a1ac48dc74e56e1a1324a1ca20d4ff2c59e370d637504ea9645377c6309befda0edbecdd8d152ae6f0aca546c68d607b5168f5645f9ed524b1f
+https://streamflexsmm.in/Artl-Digital/ZEE_TELUGU_HD.m3u8?_t=117dfa2700f40a731cf7e8653d63048b0bff649f283ae2d9882081894932069365303ea4d5d1df503d512eceb474d4c6a5ba659d26681c3e5276378966aa5d59
 
 #EXTINF:-1 tvg-id="GEMINI_MUSIC" group-title="StreamFlex-Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MUSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Gemini Music
-https://streamflexsmm.in/Artl-Digital/GEMINI_MUSIC.m3u8?_t=82e215161a53083b518327463f82a9d32c6e961b80f4850bbbbb4bd2d1d1effdad0de002c03cf81e8f7a12b9ead317f06656b206d5fda795394dd08cb2e190aa
+https://streamflexsmm.in/Artl-Digital/GEMINI_MUSIC.m3u8?_t=0b286f309302ae8565102eeede1ef4645fdfc1f27b2f0f9b2d6dde2b865d4b8588f7cf4533fa8f0951bb7015a6303e5da54c0abcd201cb10a13b1364b57fbe0a
 
 #EXTINF:-1 tvg-id="GEMINI_LIFE" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_LIFE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Gemini Life
-https://streamflexsmm.in/Artl-Digital/GEMINI_LIFE.m3u8?_t=f642f34580c8d6cd25069cd765eaec249d7e62ce608c22b2982e0089504b65e64c3023bb6e031e9eade1d8a91c69234f00e75eecbbc5c4cd0506f16a82601ec5
+https://streamflexsmm.in/Artl-Digital/GEMINI_LIFE.m3u8?_t=4bca9360616fe97fd5960712e8e415dfa4e5495fe8c74ecd11c2b3d0746b5870d993e7058441aba2860d2cea60a2e87a7bf63c6709d73adf202362d82700c921
 
 #EXTINF:-1 tvg-id="ETV_LIFE" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LANDSCAPE_169_HD/image.png",ETV Life
-https://streamflexsmm.in/Artl-Digital/ETV_LIFE.m3u8?_t=c1eaf6ffe1fa6a59596f2ad27079d5e6f660fa85020d22ca72f5b490aeb8132fa5f8414a555cd6b049e2c7c03a5322986df85f6a62c9658c81526b4f199ee198
+https://streamflexsmm.in/Artl-Digital/ETV_LIFE.m3u8?_t=951498bcc7e2704ceab13395a5d6baab20275c19e1495664e174363579506a6296a71af630cac2c678977154cf5caa962274f754813af2c8034828b85fd884ad
 
 #EXTINF:-1 tvg-id="320" group-title="StreamFlex-Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11327-j9jot000-v2/imageContent-11327-j9jot000-m2.jpg",TV5 News
-https://streamflexsmm.in/Artl-Digital/320.m3u8?_t=274202fe573fa94987315b2edb9632d3ba294c721e813eb3807dbe0e8bed72c1bf98d267001d06190168bf265b46d57413a020e2faa20e79da0c266defbdfc56
+https://streamflexsmm.in/Artl-Digital/320.m3u8?_t=1e26943c5d37ed353e3c4889f91d4001cd3518ff90fb6f190284dcc51782d08cbf5081eec87bf7798bb5f069c0b8d307d7dc7c5f1772ff3bbadbf50fd1d2b185
 
 #EXTINF:-1 tvg-id="266" group-title="StreamFlex-Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17565-jclrkakg-v1/imageContent-17565-jclrkakg-m1.jpg",10 TV
-https://streamflexsmm.in/Artl-Digital/266.m3u8?_t=0cb389d97036b3c9f152efcc6770ea86b3c4a08577e5a1423a03390bc39a8c3560b1e7b2057a08c6ab3ca4f774fe04af21db47d0c35ecd8a503996dc847cf8e1
+https://streamflexsmm.in/Artl-Digital/266.m3u8?_t=60285a6c5b69f200513c3072eaa1eb997738ab1fdfa947a233e43aa099b326934bddc65511d9c343305dc79e143488d0942923b494838eac0627a50f9d654c72
 
 #EXTINF:-1 tvg-id="DD_SAPTAGIRI" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LANDSCAPE_169_HD/image.png",DD Saptagiri
-https://streamflexsmm.in/Artl-Digital/DD_SAPTAGIRI.m3u8?_t=d2be21796485ee57072e450a21906473fb59524da75b1f007ac139e233e3b1c92d3f82240f1c39162a0f27d22e1238feba35c2bcddcaa5c49fc470099122dc93
+https://streamflexsmm.in/Artl-Digital/DD_SAPTAGIRI.m3u8?_t=870dbfe1be5986b12a16082414b906bdd3cd7b8c9d70f516ac06aedb81a1073fbb340a3f274ca2324afda7d2007e4079a84be9f89f1ef75affb2f59ad64e539d
 
 #EXTINF:-1 tvg-id="VANITHA" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VANITHA/images/LANDSCAPE_169_HD/image.png",Vanitha
-https://streamflexsmm.in/Artl-Digital/VANITHA.m3u8?_t=7af33bafefa21e8dd98ddec45bc29f8d66970c92ea93fac23e7e05e586f10fd87f915235df3d4cd3f5bedffc411ad014c94d3704b6cbe019077bcd5fb27ca8e6
+https://streamflexsmm.in/Artl-Digital/VANITHA.m3u8?_t=80e4366b0fe3c19120719527e91f87ec710568d1c5c38f3ba74481890e0be37604b7837bc1d17109cfaa5ee824c9f90349e595e083de6c779171a92b4cc7924a
 
 #EXTINF:-1 tvg-id="VISSA_TV" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LANDSCAPE_169_HD/image.png",Vissa TV
-https://streamflexsmm.in/Artl-Digital/VISSA_TV.m3u8?_t=afedd38d4411be4cdd9d11f440f6ae5560a4df56e442c59fe2f2d9f255f3f30ce29598dcf9022ebe9c7ba79c9f685d78221a8a7a2dcc1a95666546f379ae56e8
+https://streamflexsmm.in/Artl-Digital/VISSA_TV.m3u8?_t=bb457cf162353b8bad40eeada56349632ac0e0e85cd0139965b2f421e089498f16a1e495bb40751e53a9797f13050b7110a11d4fb1094abd1018fdf946d50a4a
 
 #EXTINF:-1 tvg-id="STAR_MAA" group-title="StreamFlex-Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Maa
-https://streamflexsmm.in/Artl-Digital/STAR_MAA.m3u8?_t=e13e88bea390538ba37919038935cef577a444d360540d740fefa60d649ad41def5050a0cc59a37e671ecb1fe5e047db87c65bd37afad5ddd0654acac0b24646
+https://streamflexsmm.in/Artl-Digital/STAR_MAA.m3u8?_t=3d1fabe708398d6af5e8eff694a4dd8a0db92f6de38cad8a6b0a922386ab68001b269d93d498667aed0c38812b4b916c7ddc0ba1ed9a872db06af17ea0547aff
 
 #EXTINF:-1 tvg-id="SAKSHI_TV" group-title="StreamFlex-News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LANDSCAPE_169_HD/image.png",Sakshi TV
-https://streamflexsmm.in/Artl-Digital/SAKSHI_TV.m3u8?_t=1dcbea6b076a934067ac59dab36d93f5a62602722eaece4f5db8c1aa6e0a4cb8e76fe49906f4b9145df9849bf00a63396832ba3602d7b6e5cf0464b96d75ea36
+https://streamflexsmm.in/Artl-Digital/SAKSHI_TV.m3u8?_t=3f21500434ae58d0a08bcdc524b075629f26095e868787fcc66ba2f87367fe0bdcc77991b86babca316d6298bdaf6e71e7d125a02d00a47180a3718e52839cde
 
